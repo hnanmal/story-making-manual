@@ -1141,5 +1141,1490 @@
       "사건 설계",
       "<span class='chapter-number'>48</span>  <span class='chapter-title'>사건 사슬 만들기</span>"
     ]
+  },
+  {
+    "objectID": "part8/플롯의 정의.html",
+    "href": "part8/플롯의 정의.html",
+    "title": "49  플롯의 정의",
+    "section": "",
+    "text": "50 플롯의 정의\n플롯은 사건들을 의미 있는 순서로 배열한 구조이다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>플롯의 정의</span>"
+    ]
+  },
+  {
+    "objectID": "part8/플롯의 정의.html#공식",
+    "href": "part8/플롯의 정의.html#공식",
+    "title": "49  플롯의 정의",
+    "section": "50.1 공식",
+    "text": "50.1 공식\n사건 + 인과관계 = 플롯\n스토리가 재료라면 플롯은 설계도이다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>49</span>  <span class='chapter-title'>플롯의 정의</span>"
+    ]
+  },
+  {
+    "objectID": "part8/원인과 결과.html",
+    "href": "part8/원인과 결과.html",
+    "title": "50  원인과 결과",
+    "section": "",
+    "text": "51 원인과 결과\n좋은 플롯은 사건들이 인과관계로 연결된다.\nA 사건 → B 사건 → C 사건\n우연보다 선택이 중요해야 한다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>50</span>  <span class='chapter-title'>원인과 결과</span>"
+    ]
+  },
+  {
+    "objectID": "part8/3막 구조.html",
+    "href": "part8/3막 구조.html",
+    "title": "51  3막 구조",
+    "section": "",
+    "text": "52 3막 구조\n1막: 설정\n2막: 갈등\n3막: 해결\n\n\n\n\n\nflowchart LR\n설정 --&gt; 갈등\n갈등 --&gt; 해결",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>51</span>  <span class='chapter-title'>3막 구조</span>"
+    ]
+  },
+  {
+    "objectID": "part8/5막 구조.html",
+    "href": "part8/5막 구조.html",
+    "title": "52  5막 구조",
+    "section": "",
+    "text": "53 5막 구조\n\n발단\n상승\n전환\n하강\n결말\n\n긴 서사에 적합한 구조다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>52</span>  <span class='chapter-title'>5막 구조</span>"
+    ]
+  },
+  {
+    "objectID": "part8/영웅의 여정.html",
+    "href": "part8/영웅의 여정.html",
+    "title": "53  영웅의 여정",
+    "section": "",
+    "text": "54 영웅의 여정\n주인공이 변화를 통해 성장하는 구조이다.\n일상 → 모험의 부름 → 시련 → 귀환\n성장 서사의 대표 모델이다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>53</span>  <span class='chapter-title'>영웅의 여정</span>"
+    ]
+  },
+  {
+    "objectID": "part8/웹소설형 아크.html",
+    "href": "part8/웹소설형 아크.html",
+    "title": "54  웹소설형 아크",
+    "section": "",
+    "text": "55 웹소설형 아크\n웹소설은 반복적인 보상 구조를 사용한다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>54</span>  <span class='chapter-title'>웹소설형 아크</span>"
+    ]
+  },
+  {
+    "objectID": "part8/웹소설형 아크.html#기본-패턴",
+    "href": "part8/웹소설형 아크.html#기본-패턴",
+    "title": "54  웹소설형 아크",
+    "section": "55.1 기본 패턴",
+    "text": "55.1 기본 패턴\n목표 → 도전 → 승리 → 더 큰 목표\n독자의 기대를 지속적으로 유지한다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>54</span>  <span class='chapter-title'>웹소설형 아크</span>"
+    ]
+  },
+  {
+    "objectID": "part8/메인 플롯.html",
+    "href": "part8/메인 플롯.html",
+    "title": "55  메인 플롯",
+    "section": "",
+    "text": "56 메인 플롯\n작품 전체를 이끄는 핵심 이야기다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>55</span>  <span class='chapter-title'>메인 플롯</span>"
+    ]
+  },
+  {
+    "objectID": "part8/메인 플롯.html#체크리스트",
+    "href": "part8/메인 플롯.html#체크리스트",
+    "title": "55  메인 플롯",
+    "section": "56.1 체크리스트",
+    "text": "56.1 체크리스트\n\n최종 목표가 있는가?\n최종 적대자가 있는가?\n결말 방향이 정해졌는가?",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>55</span>  <span class='chapter-title'>메인 플롯</span>"
+    ]
+  },
+  {
+    "objectID": "part8/서브 플롯.html",
+    "href": "part8/서브 플롯.html",
+    "title": "56  서브 플롯",
+    "section": "",
+    "text": "57 서브 플롯\n메인 플롯을 보완하는 보조 이야기다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>56</span>  <span class='chapter-title'>서브 플롯</span>"
+    ]
+  },
+  {
+    "objectID": "part8/서브 플롯.html#예시",
+    "href": "part8/서브 플롯.html#예시",
+    "title": "56  서브 플롯",
+    "section": "57.1 예시",
+    "text": "57.1 예시\n\n로맨스\n우정\n가족 관계\n라이벌 경쟁\n\n서브 플롯은 캐릭터를 입체적으로 만든다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>56</span>  <span class='chapter-title'>서브 플롯</span>"
+    ]
+  },
+  {
+    "objectID": "part8/플롯 지도 작성.html",
+    "href": "part8/플롯 지도 작성.html",
+    "title": "57  플롯 지도 작성",
+    "section": "",
+    "text": "58 플롯 지도 작성\n주요 사건을 한눈에 정리한다.\n\n\n\n\n\nflowchart LR\n발단 --&gt; 사건1\n사건1 --&gt; 전환점\n전환점 --&gt; 위기\n위기 --&gt; 클라이맥스\n클라이맥스 --&gt; 결말\n\n\n\n\n\n\n\n\n\n\n\n\n힌트\n\n\n\n플롯 지도는 전체 구조를 검증하는 도구다.",
+    "crumbs": [
+      "플롯 설계",
+      "<span class='chapter-number'>57</span>  <span class='chapter-title'>플롯 지도 작성</span>"
+    ]
+  },
+  {
+    "objectID": "part9/아크의 개념.html",
+    "href": "part9/아크의 개념.html",
+    "title": "58  아크의 개념",
+    "section": "",
+    "text": "59 아크의 개념\n스토리 아크는 이야기의 시작부터 끝까지 이어지는 변화의 곡선이다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>아크의 개념</span>"
+    ]
+  },
+  {
+    "objectID": "part9/아크의 개념.html#아크의-목적",
+    "href": "part9/아크의 개념.html#아크의-목적",
+    "title": "58  아크의 개념",
+    "section": "59.1 아크의 목적",
+    "text": "59.1 아크의 목적\n\n이야기 방향 제시\n캐릭터 성장 표현\n갈등의 흐름 관리\n\n\n\n\n\n\nflowchart LR\n시작 --&gt; 도전\n도전 --&gt; 위기\n위기 --&gt; 변화\n변화 --&gt; 결말",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>58</span>  <span class='chapter-title'>아크의 개념</span>"
+    ]
+  },
+  {
+    "objectID": "part9/목표 설정.html",
+    "href": "part9/목표 설정.html",
+    "title": "59  목표 설정",
+    "section": "",
+    "text": "60 목표 설정\n아크는 명확한 목표에서 시작된다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>59</span>  <span class='chapter-title'>목표 설정</span>"
+    ]
+  },
+  {
+    "objectID": "part9/목표 설정.html#좋은-목표의-조건",
+    "href": "part9/목표 설정.html#좋은-목표의-조건",
+    "title": "59  목표 설정",
+    "section": "60.1 좋은 목표의 조건",
+    "text": "60.1 좋은 목표의 조건\n\n구체적이다\n측정 가능하다\n실패 가능성이 있다\n\n\n\n\n\n\n\n노트\n\n\n\n목표가 명확할수록 독자는 이야기를 따라가기 쉽다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>59</span>  <span class='chapter-title'>목표 설정</span>"
+    ]
+  },
+  {
+    "objectID": "part9/도전 설계.html",
+    "href": "part9/도전 설계.html",
+    "title": "60  도전 설계",
+    "section": "",
+    "text": "61 도전 설계\n도전은 목표 달성을 어렵게 만드는 과정이다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>60</span>  <span class='chapter-title'>도전 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/도전 설계.html#설계-원칙",
+    "href": "part9/도전 설계.html#설계-원칙",
+    "title": "60  도전 설계",
+    "section": "61.1 설계 원칙",
+    "text": "61.1 설계 원칙\n\n점진적으로 어려워진다\n새로운 문제를 제시한다\n선택을 강요한다\n\n도전이 없으면 성장도 없다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>60</span>  <span class='chapter-title'>도전 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/실패 설계.html",
+    "href": "part9/실패 설계.html",
+    "title": "61  실패 설계",
+    "section": "",
+    "text": "62 실패 설계\n실패는 이야기의 긴장감을 높인다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>실패 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/실패 설계.html#실패의-역할",
+    "href": "part9/실패 설계.html#실패의-역할",
+    "title": "61  실패 설계",
+    "section": "62.1 실패의 역할",
+    "text": "62.1 실패의 역할\n\n약점 노출\n계획 붕괴\n새로운 방향 제시\n\n실패는 결말이 아니라 성장의 재료다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>61</span>  <span class='chapter-title'>실패 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/각성 설계.html",
+    "href": "part9/각성 설계.html",
+    "title": "62  각성 설계",
+    "section": "",
+    "text": "63 각성 설계\n각성은 주인공이 새로운 깨달음을 얻는 순간이다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>각성 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/각성 설계.html#유형",
+    "href": "part9/각성 설계.html#유형",
+    "title": "62  각성 설계",
+    "section": "63.1 유형",
+    "text": "63.1 유형\n\n진실 발견\n능력 성장\n가치관 변화\n결심 강화\n\n각성은 이전의 실패를 기반으로 해야 한다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>62</span>  <span class='chapter-title'>각성 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/승리 설계.html",
+    "href": "part9/승리 설계.html",
+    "title": "63  승리 설계",
+    "section": "",
+    "text": "64 승리 설계\n승리는 아크의 보상이다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>63</span>  <span class='chapter-title'>승리 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/승리 설계.html#조건",
+    "href": "part9/승리 설계.html#조건",
+    "title": "63  승리 설계",
+    "section": "64.1 조건",
+    "text": "64.1 조건\n\n갈등을 해결한다\n변화가 증명된다\n목표 달성 여부가 드러난다\n\n독자는 승리를 통해 여정의 의미를 확인한다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>63</span>  <span class='chapter-title'>승리 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/장기 스토리 설계.html",
+    "href": "part9/장기 스토리 설계.html",
+    "title": "64  장기 스토리 설계",
+    "section": "",
+    "text": "65 장기 스토리 설계\n장기 서사는 여러 개의 아크를 연결하여 만든다.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>64</span>  <span class='chapter-title'>장기 스토리 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/장기 스토리 설계.html#구조",
+    "href": "part9/장기 스토리 설계.html#구조",
+    "title": "64  장기 스토리 설계",
+    "section": "65.1 구조",
+    "text": "65.1 구조\n\n\n\n\n\nflowchart LR\n아크1 --&gt; 아크2\n아크2 --&gt; 아크3\n아크3 --&gt; 최종아크",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>64</span>  <span class='chapter-title'>장기 스토리 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part9/장기 스토리 설계.html#체크리스트",
+    "href": "part9/장기 스토리 설계.html#체크리스트",
+    "title": "64  장기 스토리 설계",
+    "section": "65.2 체크리스트",
+    "text": "65.2 체크리스트\n\n각 아크마다 목표가 있는가?\n난이도가 상승하는가?\n최종 결말과 연결되는가?\n\n\n\n\n\n\n\n힌트\n\n\n\n하나의 큰 이야기 안에 여러 개의 작은 이야기를 배치하라.",
+    "crumbs": [
+      "스토리 아크 설계",
+      "<span class='chapter-number'>64</span>  <span class='chapter-title'>장기 스토리 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part10/에피소드의 역할.html",
+    "href": "part10/에피소드의 역할.html",
+    "title": "65  에피소드의 역할",
+    "section": "",
+    "text": "66 에피소드의 역할\n에피소드는 이야기 전체를 구성하는 중간 단위다.",
+    "crumbs": [
+      "에피소드 설계",
+      "<span class='chapter-number'>65</span>  <span class='chapter-title'>에피소드의 역할</span>"
+    ]
+  },
+  {
+    "objectID": "part10/에피소드의 역할.html#역할",
+    "href": "part10/에피소드의 역할.html#역할",
+    "title": "65  에피소드의 역할",
+    "section": "66.1 역할",
+    "text": "66.1 역할\n\n사건 전달\n캐릭터 성장\n갈등 심화\n다음 전개 준비\n\n\n\n\n\n\n\n노트\n\n\n\n좋은 에피소드는 시작과 끝의 상태가 달라진다.",
+    "crumbs": [
+      "에피소드 설계",
+      "<span class='chapter-number'>65</span>  <span class='chapter-title'>에피소드의 역할</span>"
+    ]
+  },
+  {
+    "objectID": "part10/에피소드 구조.html",
+    "href": "part10/에피소드 구조.html",
+    "title": "66  에피소드 구조",
+    "section": "",
+    "text": "67 에피소드 구조\n목표 → 방해 → 선택 → 결과\n\n\n\n\n\nflowchart LR\n목표 --&gt; 방해\n방해 --&gt; 선택\n선택 --&gt; 결과",
+    "crumbs": [
+      "에피소드 설계",
+      "<span class='chapter-number'>66</span>  <span class='chapter-title'>에피소드 구조</span>"
+    ]
+  },
+  {
+    "objectID": "part10/메인 에피소드.html",
+    "href": "part10/메인 에피소드.html",
+    "title": "67  메인 에피소드",
+    "section": "",
+    "text": "68 메인 에피소드\n메인 플롯을 직접 진행시키는 핵심 에피소드다.\n\n핵심 목표\n주요 갈등\n큰 변화",
+    "crumbs": [
+      "에피소드 설계",
+      "<span class='chapter-number'>67</span>  <span class='chapter-title'>메인 에피소드</span>"
+    ]
+  },
+  {
+    "objectID": "part10/서브 에피소드.html",
+    "href": "part10/서브 에피소드.html",
+    "title": "68  서브 에피소드",
+    "section": "",
+    "text": "69 서브 에피소드\n메인 플롯을 보완하는 보조 에피소드다.\n\n관계 형성\n감정선 강화\n세계관 확장",
+    "crumbs": [
+      "에피소드 설계",
+      "<span class='chapter-number'>68</span>  <span class='chapter-title'>서브 에피소드</span>"
+    ]
+  },
+  {
+    "objectID": "part10/반복과 변주.html",
+    "href": "part10/반복과 변주.html",
+    "title": "69  반복과 변주",
+    "section": "",
+    "text": "70 반복과 변주\n익숙한 구조를 반복하고 새로운 요소를 더해 변주한다.",
+    "crumbs": [
+      "에피소드 설계",
+      "<span class='chapter-number'>69</span>  <span class='chapter-title'>반복과 변주</span>"
+    ]
+  },
+  {
+    "objectID": "part10/에피소드 연결.html",
+    "href": "part10/에피소드 연결.html",
+    "title": "70  에피소드 연결",
+    "section": "",
+    "text": "71 에피소드 연결\n결과 → 새로운 문제 → 다음 목표\n\n\n\n\n\nflowchart LR\n에피소드1 --&gt; 에피소드2 --&gt; 에피소드3",
+    "crumbs": [
+      "에피소드 설계",
+      "<span class='chapter-number'>70</span>  <span class='chapter-title'>에피소드 연결</span>"
+    ]
+  },
+  {
+    "objectID": "part10/에피소드 체크리스트.html",
+    "href": "part10/에피소드 체크리스트.html",
+    "title": "71  에피소드 체크리스트",
+    "section": "",
+    "text": "72 에피소드 체크리스트\n\n목표가 있는가\n갈등이 있는가\n선택이 있는가\n변화가 있는가\n다음 화로 연결되는가",
+    "crumbs": [
+      "에피소드 설계",
+      "<span class='chapter-number'>71</span>  <span class='chapter-title'>에피소드 체크리스트</span>"
+    ]
+  },
+  {
+    "objectID": "part11/장면의 정의.html",
+    "href": "part11/장면의 정의.html",
+    "title": "72  장면의 정의",
+    "section": "",
+    "text": "73 장면의 정의\n장면은 이야기의 가장 작은 드라마 단위다.",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>장면의 정의</span>"
+    ]
+  },
+  {
+    "objectID": "part11/장면의 정의.html#조건",
+    "href": "part11/장면의 정의.html#조건",
+    "title": "72  장면의 정의",
+    "section": "73.1 조건",
+    "text": "73.1 조건\n\n목표 존재\n갈등 존재\n변화 발생",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>72</span>  <span class='chapter-title'>장면의 정의</span>"
+    ]
+  },
+  {
+    "objectID": "part11/장면 목표.html",
+    "href": "part11/장면 목표.html",
+    "title": "73  장면 목표",
+    "section": "",
+    "text": "74 장면 목표\n모든 장면에는 인물이 달성하려는 목표가 있어야 한다.\n\n정보 획득\n탈출\n설득\n승리",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>73</span>  <span class='chapter-title'>장면 목표</span>"
+    ]
+  },
+  {
+    "objectID": "part11/장면 갈등.html",
+    "href": "part11/장면 갈등.html",
+    "title": "74  장면 갈등",
+    "section": "",
+    "text": "75 장면 갈등\n목표를 방해하는 요소가 장면의 긴장을 만든다.\n\n\n\n\n\nflowchart LR\n목표 --&gt; 장애물\n장애물 --&gt; 갈등",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>74</span>  <span class='chapter-title'>장면 갈등</span>"
+    ]
+  },
+  {
+    "objectID": "part11/장면 변화.html",
+    "href": "part11/장면 변화.html",
+    "title": "75  장면 변화",
+    "section": "",
+    "text": "76 장면 변화\n장면 전후 상태는 반드시 달라져야 한다.",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>75</span>  <span class='chapter-title'>장면 변화</span>"
+    ]
+  },
+  {
+    "objectID": "part11/장면 변화.html#변화-예시",
+    "href": "part11/장면 변화.html#변화-예시",
+    "title": "75  장면 변화",
+    "section": "76.1 변화 예시",
+    "text": "76.1 변화 예시\n\n승리 → 패배\n무지 → 정보 획득\n적대 → 협력",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>75</span>  <span class='chapter-title'>장면 변화</span>"
+    ]
+  },
+  {
+    "objectID": "part11/진입과 종료.html",
+    "href": "part11/진입과 종료.html",
+    "title": "76  진입과 종료",
+    "section": "",
+    "text": "77 진입과 종료\n가능한 늦게 시작하고 가능한 일찍 끝낸다.\n불필요한 이동과 설명은 제거한다.",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>76</span>  <span class='chapter-title'>진입과 종료</span>"
+    ]
+  },
+  {
+    "objectID": "part11/정보 공개.html",
+    "href": "part11/정보 공개.html",
+    "title": "77  정보 공개",
+    "section": "",
+    "text": "78 정보 공개\n정보는 필요한 순간에 공개한다.",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>77</span>  <span class='chapter-title'>정보 공개</span>"
+    ]
+  },
+  {
+    "objectID": "part11/정보 공개.html#원칙",
+    "href": "part11/정보 공개.html#원칙",
+    "title": "77  정보 공개",
+    "section": "78.1 원칙",
+    "text": "78.1 원칙\n\n궁금증 생성\n정보 제공\n새로운 질문 생성",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>77</span>  <span class='chapter-title'>정보 공개</span>"
+    ]
+  },
+  {
+    "objectID": "part11/대화 장면.html",
+    "href": "part11/대화 장면.html",
+    "title": "78  대화 장면",
+    "section": "",
+    "text": "79 대화 장면\n대화는 정보 전달보다 갈등과 관계 변화에 집중한다.\n\n\n\n\n\n\n힌트\n\n\n\n좋은 대화는 숨겨진 의도를 가진다.",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>78</span>  <span class='chapter-title'>대화 장면</span>"
+    ]
+  },
+  {
+    "objectID": "part11/액션 장면.html",
+    "href": "part11/액션 장면.html",
+    "title": "79  액션 장면",
+    "section": "",
+    "text": "80 액션 장면\n행동 중심의 장면이다.\n\n목표\n위험\n결과\n\n세 요소를 명확히 제시한다.",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>79</span>  <span class='chapter-title'>액션 장면</span>"
+    ]
+  },
+  {
+    "objectID": "part11/감정 장면.html",
+    "href": "part11/감정 장면.html",
+    "title": "80  감정 장면",
+    "section": "",
+    "text": "81 감정 장면\n인물의 내면 변화를 보여준다.\n\n상실\n후회\n기쁨\n결심",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>80</span>  <span class='chapter-title'>감정 장면</span>"
+    ]
+  },
+  {
+    "objectID": "part11/장면 분해 실습.html",
+    "href": "part11/장면 분해 실습.html",
+    "title": "81  장면 분해 실습",
+    "section": "",
+    "text": "82 장면 분해 실습",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>81</span>  <span class='chapter-title'>장면 분해 실습</span>"
+    ]
+  },
+  {
+    "objectID": "part11/장면 분해 실습.html#분석-템플릿",
+    "href": "part11/장면 분해 실습.html#분석-템플릿",
+    "title": "81  장면 분해 실습",
+    "section": "82.1 분석 템플릿",
+    "text": "82.1 분석 템플릿\n\n목표는 무엇인가?\n갈등은 무엇인가?\n결과는 무엇인가?\n어떤 변화가 발생했는가?\n\n\n\n\n\n\n\n노트\n\n\n\n모든 장면을 목표·갈등·변화로 분석하라.",
+    "crumbs": [
+      "장면 설계",
+      "<span class='chapter-number'>81</span>  <span class='chapter-title'>장면 분해 실습</span>"
+    ]
+  },
+  {
+    "objectID": "part12/챕터의 역할.html",
+    "href": "part12/챕터의 역할.html",
+    "title": "82  챕터의 역할",
+    "section": "",
+    "text": "83 챕터의 역할\n챕터는 여러 장면을 묶어 하나의 작은 이야기를 완성하는 단위다.",
+    "crumbs": [
+      "챕터 설계",
+      "<span class='chapter-number'>82</span>  <span class='chapter-title'>챕터의 역할</span>"
+    ]
+  },
+  {
+    "objectID": "part12/챕터의 역할.html#역할",
+    "href": "part12/챕터의 역할.html#역할",
+    "title": "82  챕터의 역할",
+    "section": "83.1 역할",
+    "text": "83.1 역할\n\n에피소드 진행\n갈등 심화\n독자 몰입 유지",
+    "crumbs": [
+      "챕터 설계",
+      "<span class='chapter-number'>82</span>  <span class='chapter-title'>챕터의 역할</span>"
+    ]
+  },
+  {
+    "objectID": "part12/오프닝 훅.html",
+    "href": "part12/오프닝 훅.html",
+    "title": "83  오프닝 훅",
+    "section": "",
+    "text": "84 오프닝 훅\n챕터 시작부에서 독자의 관심을 붙잡는다.",
+    "crumbs": [
+      "챕터 설계",
+      "<span class='chapter-number'>83</span>  <span class='chapter-title'>오프닝 훅</span>"
+    ]
+  },
+  {
+    "objectID": "part12/오프닝 훅.html#방법",
+    "href": "part12/오프닝 훅.html#방법",
+    "title": "83  오프닝 훅",
+    "section": "84.1 방법",
+    "text": "84.1 방법\n\n질문 제시\n위기 상황\n충격적 정보 공개",
+    "crumbs": [
+      "챕터 설계",
+      "<span class='chapter-number'>83</span>  <span class='chapter-title'>오프닝 훅</span>"
+    ]
+  },
+  {
+    "objectID": "part12/긴장 유지.html",
+    "href": "part12/긴장 유지.html",
+    "title": "84  긴장 유지",
+    "section": "",
+    "text": "85 긴장 유지\n챕터 전체에 걸쳐 궁금증과 위험을 유지한다.\n\n\n\n\n\nflowchart LR\n질문 --&gt; 갈등\n갈등 --&gt; 위기",
+    "crumbs": [
+      "챕터 설계",
+      "<span class='chapter-number'>84</span>  <span class='chapter-title'>긴장 유지</span>"
+    ]
+  },
+  {
+    "objectID": "part12/미니 클라이맥스.html",
+    "href": "part12/미니 클라이맥스.html",
+    "title": "85  미니 클라이맥스",
+    "section": "",
+    "text": "86 미니 클라이맥스\n각 챕터는 자체적인 절정 구간을 가져야 한다.\n\n대결\n선택\n발견",
+    "crumbs": [
+      "챕터 설계",
+      "<span class='chapter-number'>85</span>  <span class='chapter-title'>미니 클라이맥스</span>"
+    ]
+  },
+  {
+    "objectID": "part12/클리프행어.html",
+    "href": "part12/클리프행어.html",
+    "title": "86  클리프행어",
+    "section": "",
+    "text": "87 클리프행어\n다음 화를 읽게 만드는 미해결 상태다.\n\n\n\n\n\n\n힌트\n\n\n\n답보다 질문을 남겨라.",
+    "crumbs": [
+      "챕터 설계",
+      "<span class='chapter-number'>86</span>  <span class='chapter-title'>클리프행어</span>"
+    ]
+  },
+  {
+    "objectID": "part12/다음 화 연결.html",
+    "href": "part12/다음 화 연결.html",
+    "title": "87  다음 화 연결",
+    "section": "",
+    "text": "88 다음 화 연결\n현재 결과가 다음 목표를 만들어야 한다.",
+    "crumbs": [
+      "챕터 설계",
+      "<span class='chapter-number'>87</span>  <span class='chapter-title'>다음 화 연결</span>"
+    ]
+  },
+  {
+    "objectID": "part12/다음 화 연결.html#공식",
+    "href": "part12/다음 화 연결.html#공식",
+    "title": "87  다음 화 연결",
+    "section": "88.1 공식",
+    "text": "88.1 공식\n결과 → 문제 → 다음 챕터",
+    "crumbs": [
+      "챕터 설계",
+      "<span class='chapter-number'>87</span>  <span class='chapter-title'>다음 화 연결</span>"
+    ]
+  },
+  {
+    "objectID": "part13/분량 증식.html",
+    "href": "part13/분량 증식.html",
+    "title": "88  분량 증식",
+    "section": "",
+    "text": "89 분량 증식\n분량은 사건과 갈등의 확장을 통해 늘린다.",
+    "crumbs": [
+      "이야기 확장 시스템",
+      "<span class='chapter-number'>88</span>  <span class='chapter-title'>분량 증식</span>"
+    ]
+  },
+  {
+    "objectID": "part13/분량 증식.html#방법",
+    "href": "part13/분량 증식.html#방법",
+    "title": "88  분량 증식",
+    "section": "89.1 방법",
+    "text": "89.1 방법\n\n목표 세분화\n장애물 추가\n새로운 선택 제시\n\n\n\n\n\n\n\n힌트\n\n\n\n반복이 아닌 새로운 갈등으로 분량을 늘려라.",
+    "crumbs": [
+      "이야기 확장 시스템",
+      "<span class='chapter-number'>88</span>  <span class='chapter-title'>분량 증식</span>"
+    ]
+  },
+  {
+    "objectID": "part13/캐릭터 확장.html",
+    "href": "part13/캐릭터 확장.html",
+    "title": "89  캐릭터 확장",
+    "section": "",
+    "text": "90 캐릭터 확장\n조연과 라이벌을 활용하여 이야기를 넓힌다.\n\n개인 목표 부여\n독립 아크 설계\n관계 변화 생성",
+    "crumbs": [
+      "이야기 확장 시스템",
+      "<span class='chapter-number'>89</span>  <span class='chapter-title'>캐릭터 확장</span>"
+    ]
+  },
+  {
+    "objectID": "part13/세계관 확장.html",
+    "href": "part13/세계관 확장.html",
+    "title": "90  세계관 확장",
+    "section": "",
+    "text": "91 세계관 확장\n새로운 지역과 조직을 추가한다.\n\n\n\n\n\nflowchart LR\n수도 --&gt; 변경\n변경 --&gt; 타국\n타국 --&gt; 대륙",
+    "crumbs": [
+      "이야기 확장 시스템",
+      "<span class='chapter-number'>90</span>  <span class='chapter-title'>세계관 확장</span>"
+    ]
+  },
+  {
+    "objectID": "part13/갈등 추가.html",
+    "href": "part13/갈등 추가.html",
+    "title": "91  갈등 추가",
+    "section": "",
+    "text": "92 갈등 추가\n기존 문제 위에 새로운 문제를 쌓는다.\n\n내부 갈등\n외부 갈등\n시간 제한\n이해관계 충돌",
+    "crumbs": [
+      "이야기 확장 시스템",
+      "<span class='chapter-number'>91</span>  <span class='chapter-title'>갈등 추가</span>"
+    ]
+  },
+  {
+    "objectID": "part13/서브플롯 생성.html",
+    "href": "part13/서브플롯 생성.html",
+    "title": "92  서브플롯 생성",
+    "section": "",
+    "text": "93 서브플롯 생성\n메인 플롯을 지원하는 보조 이야기를 만든다.",
+    "crumbs": [
+      "이야기 확장 시스템",
+      "<span class='chapter-number'>92</span>  <span class='chapter-title'>서브플롯 생성</span>"
+    ]
+  },
+  {
+    "objectID": "part13/서브플롯 생성.html#예시",
+    "href": "part13/서브플롯 생성.html#예시",
+    "title": "92  서브플롯 생성",
+    "section": "93.1 예시",
+    "text": "93.1 예시\n\n로맨스\n우정\n가족\n정치 음모",
+    "crumbs": [
+      "이야기 확장 시스템",
+      "<span class='chapter-number'>92</span>  <span class='chapter-title'>서브플롯 생성</span>"
+    ]
+  },
+  {
+    "objectID": "part13/시리즈화.html",
+    "href": "part13/시리즈화.html",
+    "title": "93  시리즈화",
+    "section": "",
+    "text": "94 시리즈화\n하나의 결말 이후 더 큰 목표를 제시한다.",
+    "crumbs": [
+      "이야기 확장 시스템",
+      "<span class='chapter-number'>93</span>  <span class='chapter-title'>시리즈화</span>"
+    ]
+  },
+  {
+    "objectID": "part13/시리즈화.html#구조",
+    "href": "part13/시리즈화.html#구조",
+    "title": "93  시리즈화",
+    "section": "94.1 구조",
+    "text": "94.1 구조\n아크1 → 아크2 → 아크3 → 장기 시리즈\n\n\n\n\n\n\n노트\n\n\n\n이전 결말은 유지하면서 다음 갈등을 열어야 한다.",
+    "crumbs": [
+      "이야기 확장 시스템",
+      "<span class='chapter-number'>93</span>  <span class='chapter-title'>시리즈화</span>"
+    ]
+  },
+  {
+    "objectID": "part14/캐릭터 검증.html",
+    "href": "part14/캐릭터 검증.html",
+    "title": "94  캐릭터 검증",
+    "section": "",
+    "text": "95 캐릭터 검증\n\n목표가 명확한가?\n욕망과 결핍이 존재하는가?\n성장 가능성이 있는가?",
+    "crumbs": [
+      "검증 시스템",
+      "<span class='chapter-number'>94</span>  <span class='chapter-title'>캐릭터 검증</span>"
+    ]
+  },
+  {
+    "objectID": "part14/갈등 검증.html",
+    "href": "part14/갈등 검증.html",
+    "title": "95  갈등 검증",
+    "section": "",
+    "text": "96 갈등 검증\n\n목표와 장애물이 충돌하는가?\n긴장감이 유지되는가?\n단계적으로 상승하는가?",
+    "crumbs": [
+      "검증 시스템",
+      "<span class='chapter-number'>95</span>  <span class='chapter-title'>갈등 검증</span>"
+    ]
+  },
+  {
+    "objectID": "part14/플롯 검증.html",
+    "href": "part14/플롯 검증.html",
+    "title": "96  플롯 검증",
+    "section": "",
+    "text": "97 플롯 검증\n\n인과관계가 존재하는가?\n사건이 연결되는가?\n결말로 수렴하는가?",
+    "crumbs": [
+      "검증 시스템",
+      "<span class='chapter-number'>96</span>  <span class='chapter-title'>플롯 검증</span>"
+    ]
+  },
+  {
+    "objectID": "part14/장면 검증.html",
+    "href": "part14/장면 검증.html",
+    "title": "97  장면 검증",
+    "section": "",
+    "text": "98 장면 검증\n\n목표가 있는가?\n갈등이 있는가?\n변화가 있는가?",
+    "crumbs": [
+      "검증 시스템",
+      "<span class='chapter-number'>97</span>  <span class='chapter-title'>장면 검증</span>"
+    ]
+  },
+  {
+    "objectID": "part14/개연성 검증.html",
+    "href": "part14/개연성 검증.html",
+    "title": "98  개연성 검증",
+    "section": "",
+    "text": "99 개연성 검증\n\n설정과 모순되지 않는가?\n인물 행동의 이유가 설명되는가?\n세계관 규칙을 따르는가?",
+    "crumbs": [
+      "검증 시스템",
+      "<span class='chapter-number'>98</span>  <span class='chapter-title'>개연성 검증</span>"
+    ]
+  },
+  {
+    "objectID": "part14/몰입도 검증.html",
+    "href": "part14/몰입도 검증.html",
+    "title": "99  몰입도 검증",
+    "section": "",
+    "text": "100 몰입도 검증\n\n궁금증이 유지되는가?\n감정 이입이 가능한가?\n다음 장면이 기대되는가?",
+    "crumbs": [
+      "검증 시스템",
+      "<span class='chapter-number'>99</span>  <span class='chapter-title'>몰입도 검증</span>"
+    ]
+  },
+  {
+    "objectID": "part14/수정 우선순위.html",
+    "href": "part14/수정 우선순위.html",
+    "title": "100  수정 우선순위",
+    "section": "",
+    "text": "101 수정 우선순위\n\n플롯 문제\n캐릭터 문제\n갈등 문제\n장면 문제\n문장 문제\n\n\n\n\n\n\n\n힌트\n\n\n\n큰 구조부터 수정하고 세부를 다듬어라.",
+    "crumbs": [
+      "검증 시스템",
+      "<span class='chapter-number'>100</span>  <span class='chapter-title'>수정 우선순위</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html",
+    "href": "part15/Story Canvas.html",
+    "title": "101  Story Canvas",
+    "section": "",
+    "text": "102 Story Canvas",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#아이디어",
+    "href": "part15/Story Canvas.html#아이디어",
+    "title": "101  Story Canvas",
+    "section": "102.1 아이디어",
+    "text": "102.1 아이디어\n작품의 출발점이 되는 한 줄 아이디어\n예시:\n\n회귀한 검사가 과거의 사건을 막는다.\n평민 마법사가 귀족 사회에 도전한다.",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#컨셉",
+    "href": "part15/Story Canvas.html#컨셉",
+    "title": "101  Story Canvas",
+    "section": "102.2 컨셉",
+    "text": "102.2 컨셉\n독창적인 차별화 요소\n예시:\n\n회귀 + 법정물\n마법 + 정치 스릴러",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#주인공",
+    "href": "part15/Story Canvas.html#주인공",
+    "title": "101  Story Canvas",
+    "section": "102.3 주인공",
+    "text": "102.3 주인공\n\n102.3.1 이름\n\n\n102.3.2 직업\n\n\n102.3.3 욕망\n\n\n102.3.4 결핍\n\n\n102.3.5 강점\n\n\n102.3.6 약점",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#적대자",
+    "href": "part15/Story Canvas.html#적대자",
+    "title": "101  Story Canvas",
+    "section": "102.4 적대자",
+    "text": "102.4 적대자\n\n102.4.1 목표\n\n\n102.4.2 강점\n\n\n102.4.3 주인공과의 충돌 지점",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#핵심-갈등",
+    "href": "part15/Story Canvas.html#핵심-갈등",
+    "title": "101  Story Canvas",
+    "section": "102.5 핵심 갈등",
+    "text": "102.5 핵심 갈등\n주인공은 무엇을 원하며\n누가 혹은 무엇이 방해하는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#발단-사건",
+    "href": "part15/Story Canvas.html#발단-사건",
+    "title": "101  Story Canvas",
+    "section": "102.6 발단 사건",
+    "text": "102.6 발단 사건\n이야기를 시작시키는 사건",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#주요-전환점",
+    "href": "part15/Story Canvas.html#주요-전환점",
+    "title": "101  Story Canvas",
+    "section": "102.7 주요 전환점",
+    "text": "102.7 주요 전환점\n\n102.7.1 1차 전환점\n\n\n102.7.2 2차 전환점\n\n\n102.7.3 위기\n\n\n102.7.4 클라이맥스",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#결말",
+    "href": "part15/Story Canvas.html#결말",
+    "title": "101  Story Canvas",
+    "section": "102.8 결말",
+    "text": "102.8 결말\n주인공은 어떻게 변화하는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#에피소드-아크",
+    "href": "part15/Story Canvas.html#에피소드-아크",
+    "title": "101  Story Canvas",
+    "section": "102.9 에피소드 아크",
+    "text": "102.9 에피소드 아크\n\n\n\n에피소드\n목표\n갈등\n결과\n\n\n\n\n1\n\n\n\n\n\n2\n\n\n\n\n\n3\n\n\n\n\n\n4",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#장면-설계-메모",
+    "href": "part15/Story Canvas.html#장면-설계-메모",
+    "title": "101  Story Canvas",
+    "section": "102.10 장면 설계 메모",
+    "text": "102.10 장면 설계 메모\n\n102.10.1 Scene 1\n목표:\n갈등:\n결과:\n\n\n102.10.2 Scene 2\n목표:\n갈등:\n결과:",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/Story Canvas.html#검증-체크리스트",
+    "href": "part15/Story Canvas.html#검증-체크리스트",
+    "title": "101  Story Canvas",
+    "section": "102.11 검증 체크리스트",
+    "text": "102.11 검증 체크리스트\n\n주인공의 욕망이 명확한가?\n적대자가 존재하는가?\n갈등이 단계적으로 상승하는가?\n사건이 인과관계로 연결되는가?\n결말에서 변화가 발생하는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>101</span>  <span class='chapter-title'>Story Canvas</span>"
+    ]
+  },
+  {
+    "objectID": "part15/로그라인 템플릿.html",
+    "href": "part15/로그라인 템플릿.html",
+    "title": "102  로그라인 템플릿",
+    "section": "",
+    "text": "103 로그라인 템플릿",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>102</span>  <span class='chapter-title'>로그라인 템플릿</span>"
+    ]
+  },
+  {
+    "objectID": "part15/로그라인 템플릿.html#기본-공식",
+    "href": "part15/로그라인 템플릿.html#기본-공식",
+    "title": "102  로그라인 템플릿",
+    "section": "103.1 기본 공식",
+    "text": "103.1 기본 공식\n주인공 + 목표 + 장애물 + 실패 대가",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>102</span>  <span class='chapter-title'>로그라인 템플릿</span>"
+    ]
+  },
+  {
+    "objectID": "part15/로그라인 템플릿.html#템플릿",
+    "href": "part15/로그라인 템플릿.html#템플릿",
+    "title": "102  로그라인 템플릿",
+    "section": "103.2 템플릿",
+    "text": "103.2 템플릿\n[주인공]은(는)\n[목표]를 이루기 위해\n[장애물]과 맞서야 하며,\n실패할 경우 [대가]를 치르게 된다.",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>102</span>  <span class='chapter-title'>로그라인 템플릿</span>"
+    ]
+  },
+  {
+    "objectID": "part15/로그라인 템플릿.html#예시",
+    "href": "part15/로그라인 템플릿.html#예시",
+    "title": "102  로그라인 템플릿",
+    "section": "103.3 예시",
+    "text": "103.3 예시\n멸망한 미래에서 회귀한 기사는\n제국을 구하기 위해\n황실의 음모와 싸워야 하며,\n실패할 경우 세상은 다시 멸망한다.",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>102</span>  <span class='chapter-title'>로그라인 템플릿</span>"
+    ]
+  },
+  {
+    "objectID": "part15/로그라인 템플릿.html#체크리스트",
+    "href": "part15/로그라인 템플릿.html#체크리스트",
+    "title": "102  로그라인 템플릿",
+    "section": "103.4 체크리스트",
+    "text": "103.4 체크리스트\n\n주인공이 보이는가?\n목표가 명확한가?\n갈등이 존재하는가?\n위험이 느껴지는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>102</span>  <span class='chapter-title'>로그라인 템플릿</span>"
+    ]
+  },
+  {
+    "objectID": "part15/캐릭터 시트.html",
+    "href": "part15/캐릭터 시트.html",
+    "title": "103  캐릭터 시트",
+    "section": "",
+    "text": "104 캐릭터 시트",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>103</span>  <span class='chapter-title'>캐릭터 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/캐릭터 시트.html#기본-정보",
+    "href": "part15/캐릭터 시트.html#기본-정보",
+    "title": "103  캐릭터 시트",
+    "section": "104.1 기본 정보",
+    "text": "104.1 기본 정보\n\n이름:\n나이:\n성별:\n직업:",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>103</span>  <span class='chapter-title'>캐릭터 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/캐릭터 시트.html#욕망",
+    "href": "part15/캐릭터 시트.html#욕망",
+    "title": "103  캐릭터 시트",
+    "section": "104.2 욕망",
+    "text": "104.2 욕망\n무엇을 원하는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>103</span>  <span class='chapter-title'>캐릭터 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/캐릭터 시트.html#결핍",
+    "href": "part15/캐릭터 시트.html#결핍",
+    "title": "103  캐릭터 시트",
+    "section": "104.3 결핍",
+    "text": "104.3 결핍\n무엇이 부족한가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>103</span>  <span class='chapter-title'>캐릭터 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/캐릭터 시트.html#강점",
+    "href": "part15/캐릭터 시트.html#강점",
+    "title": "103  캐릭터 시트",
+    "section": "104.4 강점",
+    "text": "104.4 강점\n\n강점 1\n강점 2",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>103</span>  <span class='chapter-title'>캐릭터 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/캐릭터 시트.html#약점",
+    "href": "part15/캐릭터 시트.html#약점",
+    "title": "103  캐릭터 시트",
+    "section": "104.5 약점",
+    "text": "104.5 약점\n\n약점 1\n약점 2",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>103</span>  <span class='chapter-title'>캐릭터 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/캐릭터 시트.html#핵심-관계",
+    "href": "part15/캐릭터 시트.html#핵심-관계",
+    "title": "103  캐릭터 시트",
+    "section": "104.6 핵심 관계",
+    "text": "104.6 핵심 관계\n\n104.6.1 조력자\n\n\n104.6.2 라이벌\n\n\n104.6.3 적대자",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>103</span>  <span class='chapter-title'>캐릭터 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/캐릭터 시트.html#성장-목표",
+    "href": "part15/캐릭터 시트.html#성장-목표",
+    "title": "103  캐릭터 시트",
+    "section": "104.7 성장 목표",
+    "text": "104.7 성장 목표\n이야기 끝에서 어떤 사람이 되는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>103</span>  <span class='chapter-title'>캐릭터 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/캐릭터 시트.html#한-줄-정의",
+    "href": "part15/캐릭터 시트.html#한-줄-정의",
+    "title": "103  캐릭터 시트",
+    "section": "104.8 한 줄 정의",
+    "text": "104.8 한 줄 정의",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>103</span>  <span class='chapter-title'>캐릭터 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/갈등 시트.html",
+    "href": "part15/갈등 시트.html",
+    "title": "104  갈등 시트",
+    "section": "",
+    "text": "105 갈등 시트",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>104</span>  <span class='chapter-title'>갈등 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/갈등 시트.html#목표",
+    "href": "part15/갈등 시트.html#목표",
+    "title": "104  갈등 시트",
+    "section": "105.1 목표",
+    "text": "105.1 목표\n주인공은 무엇을 원하는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>104</span>  <span class='chapter-title'>갈등 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/갈등 시트.html#장애물",
+    "href": "part15/갈등 시트.html#장애물",
+    "title": "104  갈등 시트",
+    "section": "105.2 장애물",
+    "text": "105.2 장애물\n무엇이 방해하는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>104</span>  <span class='chapter-title'>갈등 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/갈등 시트.html#적대-세력",
+    "href": "part15/갈등 시트.html#적대-세력",
+    "title": "104  갈등 시트",
+    "section": "105.3 적대 세력",
+    "text": "105.3 적대 세력\n누가 방해하는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>104</span>  <span class='chapter-title'>갈등 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/갈등 시트.html#실패-비용",
+    "href": "part15/갈등 시트.html#실패-비용",
+    "title": "104  갈등 시트",
+    "section": "105.4 실패 비용",
+    "text": "105.4 실패 비용\n실패하면 무엇을 잃는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>104</span>  <span class='chapter-title'>갈등 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/갈등 시트.html#갈등-상승",
+    "href": "part15/갈등 시트.html#갈등-상승",
+    "title": "104  갈등 시트",
+    "section": "105.5 갈등 상승",
+    "text": "105.5 갈등 상승\n1단계:\n2단계:\n3단계:\n4단계:\n클라이맥스:",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>104</span>  <span class='chapter-title'>갈등 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/갈등 시트.html#체크리스트",
+    "href": "part15/갈등 시트.html#체크리스트",
+    "title": "104  갈등 시트",
+    "section": "105.6 체크리스트",
+    "text": "105.6 체크리스트\n\n갈등이 명확한가?\n갈등이 확대되는가?\n선택을 강요하는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>104</span>  <span class='chapter-title'>갈등 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/플롯 시트.html",
+    "href": "part15/플롯 시트.html",
+    "title": "105  플롯 시트",
+    "section": "",
+    "text": "106 플롯 시트",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>105</span>  <span class='chapter-title'>플롯 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/플롯 시트.html#발단",
+    "href": "part15/플롯 시트.html#발단",
+    "title": "105  플롯 시트",
+    "section": "106.1 발단",
+    "text": "106.1 발단",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>105</span>  <span class='chapter-title'>플롯 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/플롯 시트.html#차-전환점",
+    "href": "part15/플롯 시트.html#차-전환점",
+    "title": "105  플롯 시트",
+    "section": "106.2 1차 전환점",
+    "text": "106.2 1차 전환점",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>105</span>  <span class='chapter-title'>플롯 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/플롯 시트.html#상승-갈등",
+    "href": "part15/플롯 시트.html#상승-갈등",
+    "title": "105  플롯 시트",
+    "section": "106.3 상승 갈등",
+    "text": "106.3 상승 갈등",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>105</span>  <span class='chapter-title'>플롯 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/플롯 시트.html#위기",
+    "href": "part15/플롯 시트.html#위기",
+    "title": "105  플롯 시트",
+    "section": "106.4 위기",
+    "text": "106.4 위기",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>105</span>  <span class='chapter-title'>플롯 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/플롯 시트.html#각성",
+    "href": "part15/플롯 시트.html#각성",
+    "title": "105  플롯 시트",
+    "section": "106.5 각성",
+    "text": "106.5 각성",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>105</span>  <span class='chapter-title'>플롯 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/플롯 시트.html#클라이맥스",
+    "href": "part15/플롯 시트.html#클라이맥스",
+    "title": "105  플롯 시트",
+    "section": "106.6 클라이맥스",
+    "text": "106.6 클라이맥스",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>105</span>  <span class='chapter-title'>플롯 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/플롯 시트.html#결말",
+    "href": "part15/플롯 시트.html#결말",
+    "title": "105  플롯 시트",
+    "section": "106.7 결말",
+    "text": "106.7 결말",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>105</span>  <span class='chapter-title'>플롯 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/플롯 시트.html#플롯-지도",
+    "href": "part15/플롯 시트.html#플롯-지도",
+    "title": "105  플롯 시트",
+    "section": "106.8 플롯 지도",
+    "text": "106.8 플롯 지도\n발단\n↓\n전환점\n↓\n위기\n↓\n클라이맥스\n↓\n결말",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>105</span>  <span class='chapter-title'>플롯 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/에피소드 시트.html",
+    "href": "part15/에피소드 시트.html",
+    "title": "106  에피소드 시트",
+    "section": "",
+    "text": "107 에피소드 시트",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>106</span>  <span class='chapter-title'>에피소드 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/에피소드 시트.html#에피소드-제목",
+    "href": "part15/에피소드 시트.html#에피소드-제목",
+    "title": "106  에피소드 시트",
+    "section": "107.1 에피소드 제목",
+    "text": "107.1 에피소드 제목",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>106</span>  <span class='chapter-title'>에피소드 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/에피소드 시트.html#목표",
+    "href": "part15/에피소드 시트.html#목표",
+    "title": "106  에피소드 시트",
+    "section": "107.2 목표",
+    "text": "107.2 목표",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>106</span>  <span class='chapter-title'>에피소드 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/에피소드 시트.html#장애물",
+    "href": "part15/에피소드 시트.html#장애물",
+    "title": "106  에피소드 시트",
+    "section": "107.3 장애물",
+    "text": "107.3 장애물",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>106</span>  <span class='chapter-title'>에피소드 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/에피소드 시트.html#선택",
+    "href": "part15/에피소드 시트.html#선택",
+    "title": "106  에피소드 시트",
+    "section": "107.4 선택",
+    "text": "107.4 선택",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>106</span>  <span class='chapter-title'>에피소드 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/에피소드 시트.html#결과",
+    "href": "part15/에피소드 시트.html#결과",
+    "title": "106  에피소드 시트",
+    "section": "107.5 결과",
+    "text": "107.5 결과",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>106</span>  <span class='chapter-title'>에피소드 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/에피소드 시트.html#다음-문제",
+    "href": "part15/에피소드 시트.html#다음-문제",
+    "title": "106  에피소드 시트",
+    "section": "107.6 다음 문제",
+    "text": "107.6 다음 문제",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>106</span>  <span class='chapter-title'>에피소드 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/에피소드 시트.html#체크리스트",
+    "href": "part15/에피소드 시트.html#체크리스트",
+    "title": "106  에피소드 시트",
+    "section": "107.7 체크리스트",
+    "text": "107.7 체크리스트\n\n목표가 있는가?\n갈등이 있는가?\n변화가 있는가?\n다음 화로 연결되는가?",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>106</span>  <span class='chapter-title'>에피소드 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html",
+    "href": "part15/장면 시트.html",
+    "title": "107  장면 시트",
+    "section": "",
+    "text": "108 장면 시트",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html#장면-번호",
+    "href": "part15/장면 시트.html#장면-번호",
+    "title": "107  장면 시트",
+    "section": "108.1 장면 번호",
+    "text": "108.1 장면 번호",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html#장면-목적",
+    "href": "part15/장면 시트.html#장면-목적",
+    "title": "107  장면 시트",
+    "section": "108.2 장면 목적",
+    "text": "108.2 장면 목적",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html#등장인물",
+    "href": "part15/장면 시트.html#등장인물",
+    "title": "107  장면 시트",
+    "section": "108.3 등장인물",
+    "text": "108.3 등장인물",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html#장면-목표",
+    "href": "part15/장면 시트.html#장면-목표",
+    "title": "107  장면 시트",
+    "section": "108.4 장면 목표",
+    "text": "108.4 장면 목표",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html#갈등",
+    "href": "part15/장면 시트.html#갈등",
+    "title": "107  장면 시트",
+    "section": "108.5 갈등",
+    "text": "108.5 갈등",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html#행동",
+    "href": "part15/장면 시트.html#행동",
+    "title": "107  장면 시트",
+    "section": "108.6 행동",
+    "text": "108.6 행동",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html#결과",
+    "href": "part15/장면 시트.html#결과",
+    "title": "107  장면 시트",
+    "section": "108.7 결과",
+    "text": "108.7 결과",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html#변화",
+    "href": "part15/장면 시트.html#변화",
+    "title": "107  장면 시트",
+    "section": "108.8 변화",
+    "text": "108.8 변화\n장면 시작 상태\n↓\n\n↓\n장면 종료 상태",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
+  },
+  {
+    "objectID": "part15/장면 시트.html#검증",
+    "href": "part15/장면 시트.html#검증",
+    "title": "107  장면 시트",
+    "section": "108.9 검증",
+    "text": "108.9 검증\n\n목표가 있는가?\n갈등이 있는가?\n결과가 있는가?\n상태 변화가 있는가? ``",
+    "crumbs": [
+      "스토리 생성 템플릿",
+      "<span class='chapter-number'>107</span>  <span class='chapter-title'>장면 시트</span>"
+    ]
   }
 ]
