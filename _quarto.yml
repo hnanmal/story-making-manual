@@ -24,26 +24,26 @@ book:
         - part2/로그라인 작성.qmd
         - part2/이야기 핵심 질문.qmd
 
-    # - part: "주인공 설계"
-    #   chapters:
-    #     - 주인공의 역할.qmd
-    #     - 욕망 설계.qmd
-    #     - 결핍 설계.qmd
-    #     - 강점 설계.qmd
-    #     - 약점 설계.qmd
-    #     - 변화 가능한 인물 만들기.qmd
-    #     - 캐릭터 성장축 설계.qmd
-    #     - 캐릭터 프로파일 작성.qmd
+    - part: "주인공 설계"
+      chapters:
+        - part3/주인공의 역할.qmd
+        - part3/욕망 설계.qmd
+        - part3/결핍 설계.qmd
+        - part3/강점 설계.qmd
+        - part3/약점 설계.qmd
+        - part3/변화 가능한 인물 만들기.qmd
+        - part3/캐릭터 성장축 설계.qmd
+        - part3/캐릭터 프로파일 작성.qmd
 
-    # - part: "대립 인물 설계"
-    #   chapters:
-    #     - 적대자의 역할.qmd
-    #     - 악당의 욕망.qmd
-    #     - 주인공과의 충돌점.qmd
-    #     - 라이벌.qmd
-    #     - 조력자.qmd
-    #     - 서브 캐릭터 네트워크.qmd
-    #     - 인물 관계도 구축.qmd
+    - part: "대립 인물 설계"
+      chapters:
+        - part4/적대자의 역할.qmd
+        - part4/악당의 욕망.qmd
+        - part4/주인공과의 충돌점.qmd
+        - part4/라이벌.qmd
+        - part4/조력자.qmd
+        - part4/서브 캐릭터 네트워크.qmd
+        - part4/인물 관계도 구축.qmd
 
     # - part: "세계 설계"
     #   chapters:
