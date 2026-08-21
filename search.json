@@ -1,0 +1,1145 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "story-making-manual",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "part1/이야기의 정의.html",
+    "href": "part1/이야기의 정의.html",
+    "title": "1  이야기의 정의",
+    "section": "",
+    "text": "1.1 이야기의 기본 공식\n이야기란 시간의 흐름 속에서 어떤 존재가 변화를 겪는 과정을 의미한다.\n독자는 사건 자체보다 사건으로 인해 발생하는 변화를 따라간다. 따라서 이야기의 핵심은 사건이 아니라 변화이다.\n주인공 → 목표 → 갈등 → 변화",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>이야기의 정의</span>"
+    ]
+  },
+  {
+    "objectID": "part1/이야기의 정의.html#예시",
+    "href": "part1/이야기의 정의.html#예시",
+    "title": "1  이야기의 정의",
+    "section": "1.2 예시",
+    "text": "1.2 예시\n평범한 농부가 용을 물리치는 이야기는 용이 중요한 것이 아니다. 농부가 영웅으로 변화하는 과정이 이야기의 본질이다.",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>이야기의 정의</span>"
+    ]
+  },
+  {
+    "objectID": "part1/이야기를 구성하는 최소 요소.html",
+    "href": "part1/이야기를 구성하는 최소 요소.html",
+    "title": "2  이야기를 구성하는 최소 요소",
+    "section": "",
+    "text": "2.1 예시\n이야기가 성립하기 위해 필요한 최소 요소는 세 가지다.\n이 세 요소만 있어도 이야기를 만들 수 있다.\n이미 하나의 이야기 구조가 형성된다.",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>이야기를 구성하는 최소 요소</span>"
+    ]
+  },
+  {
+    "objectID": "part1/이야기를 구성하는 최소 요소.html#예시",
+    "href": "part1/이야기를 구성하는 최소 요소.html#예시",
+    "title": "2  이야기를 구성하는 최소 요소",
+    "section": "",
+    "text": "인물: 견습 기사\n목표: 왕을 구한다.\n갈등: 반란군이 방해한다.",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>이야기를 구성하는 최소 요소</span>"
+    ]
+  },
+  {
+    "objectID": "part1/캐릭터와 사건의 관계.html",
+    "href": "part1/캐릭터와 사건의 관계.html",
+    "title": "3  캐릭터와 사건의 관계",
+    "section": "",
+    "text": "3.1 순환 구조\n캐릭터는 사건을 만든다. 사건은 캐릭터를 변화시킨다.\n좋은 이야기는 캐릭터와 사건이 서로를 밀어내고 끌어당기는 구조를 가진다.\n캐릭터의 욕망 → 행동 → 사건 발생 → 결과 → 캐릭터 변화\n이 순환이 반복되면서 이야기가 전개된다.",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>캐릭터와 사건의 관계</span>"
+    ]
+  },
+  {
+    "objectID": "part1/변화가 없는 이야기는 왜 지루한가.html",
+    "href": "part1/변화가 없는 이야기는 왜 지루한가.html",
+    "title": "4  변화가 없는 이야기는 왜 지루한가",
+    "section": "",
+    "text": "4.1 변화의 종류\n독자는 현재 상태가 유지되는 것보다 상태가 바뀌는 순간에 관심을 가진다.\n만약 이야기 시작과 끝이 동일하다면 독자는 여정을 따라갈 이유를 느끼기 어렵다.\n모든 장면은 최소 하나 이상의 변화를 만들어야 한다.",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>변화가 없는 이야기는 왜 지루한가</span>"
+    ]
+  },
+  {
+    "objectID": "part1/변화가 없는 이야기는 왜 지루한가.html#변화의-종류",
+    "href": "part1/변화가 없는 이야기는 왜 지루한가.html#변화의-종류",
+    "title": "4  변화가 없는 이야기는 왜 지루한가",
+    "section": "",
+    "text": "감정 변화\n관계 변화\n능력 변화\n가치관 변화\n사회적 위치 변화",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>변화가 없는 이야기는 왜 지루한가</span>"
+    ]
+  },
+  {
+    "objectID": "part1/스토리와 플롯의 차이.html",
+    "href": "part1/스토리와 플롯의 차이.html",
+    "title": "5  스토리와 플롯의 차이",
+    "section": "",
+    "text": "5.1 스토리\n스토리는 사건의 실제 순서이고, 플롯은 그 사건을 독자에게 보여주는 방식이다.\n왕이 죽었다. 왕비가 슬퍼했다.",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>스토리와 플롯의 차이</span>"
+    ]
+  },
+  {
+    "objectID": "part1/스토리와 플롯의 차이.html#플롯",
+    "href": "part1/스토리와 플롯의 차이.html#플롯",
+    "title": "5  스토리와 플롯의 차이",
+    "section": "5.2 플롯",
+    "text": "5.2 플롯\n왕비가 슬퍼한다. 독자는 이유를 모른다. 나중에 왕의 죽음이 밝혀진다.\n같은 사건이라도 전달 순서에 따라 긴장감이 달라진다.",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>스토리와 플롯의 차이</span>"
+    ]
+  },
+  {
+    "objectID": "part1/이야기 생성 시스템 개요.html",
+    "href": "part1/이야기 생성 시스템 개요.html",
+    "title": "6  이야기 생성 시스템 개요",
+    "section": "",
+    "text": "6.1 생성 흐름\n이 매뉴얼은 이야기를 감이 아니라 절차로 만드는 것을 목표로 한다.\n아이디어 → 컨셉 → 주인공 → 욕망 → 갈등 → 사건 → 플롯 → 에피소드 → 장면 → 원고\n각 단계의 결과물은 다음 단계의 입력이 된다.\n이 과정을 따르면 이야기를 반복적으로 설계하고 개선할 수 있다.",
+    "crumbs": [
+      "이야기란 무엇인가",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>이야기 생성 시스템 개요</span>"
+    ]
+  },
+  {
+    "objectID": "part2/아이디어의 원천.html",
+    "href": "part2/아이디어의 원천.html",
+    "title": "7  아이디어의 원천",
+    "section": "",
+    "text": "7.1 주요 아이디어 원천\n좋은 이야기는 갑자기 떠오르는 것이 아니라 질문에서 시작된다.",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>아이디어의 원천</span>"
+    ]
+  },
+  {
+    "objectID": "part2/아이디어의 원천.html#주요-아이디어-원천",
+    "href": "part2/아이디어의 원천.html#주요-아이디어-원천",
+    "title": "7  아이디어의 원천",
+    "section": "",
+    "text": "7.1.1 경험\n자신이 직접 겪은 사건과 감정.\n\n\n7.1.2 관찰\n사람, 사회, 뉴스, 역사에서 발견한 흥미로운 현상.\n\n\n7.1.3 질문\n“만약에?”라는 가정.\n\n\n7.1.4 결핍\n현실에서 이루지 못한 욕망.",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>아이디어의 원천</span>"
+    ]
+  },
+  {
+    "objectID": "part2/아이디어의 원천.html#아이디어-발굴-공식",
+    "href": "part2/아이디어의 원천.html#아이디어-발굴-공식",
+    "title": "7  아이디어의 원천",
+    "section": "7.2 아이디어 발굴 공식",
+    "text": "7.2 아이디어 발굴 공식\n관찰 → 질문 → 가정 → 이야기\n예시\n“만약 죽기 직전으로 시간을 되돌릴 수 있다면?”\n이 한 문장만으로도 이야기의 씨앗이 된다.",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>아이디어의 원천</span>"
+    ]
+  },
+  {
+    "objectID": "part2/컨셉 만들기.html",
+    "href": "part2/컨셉 만들기.html",
+    "title": "8  컨셉 만들기",
+    "section": "",
+    "text": "8.1 컨셉 생성 방법\n아이디어가 씨앗이라면 컨셉은 방향이다.\n컨셉은 독자가 한 문장으로 설명할 수 있는 작품의 특징이다.",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>컨셉 만들기</span>"
+    ]
+  },
+  {
+    "objectID": "part2/컨셉 만들기.html#컨셉-생성-방법",
+    "href": "part2/컨셉 만들기.html#컨셉-생성-방법",
+    "title": "8  컨셉 만들기",
+    "section": "",
+    "text": "8.1.1 조합\nA + B\n예시\n\n회귀 + 추리\n마법 + 학교\n좀비 + 조선시대\n\n\n\n8.1.2 전복\n기존 공식을 뒤집는다.\n예시\n\n용사가 마왕을 구한다.\n악당이 세상을 구한다.\n\n\n\n8.1.3 확대\n작은 사건을 크게 만든다.\n예시\n한 번의 거짓말이 국가 전쟁으로 이어진다.",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>컨셉 만들기</span>"
+    ]
+  },
+  {
+    "objectID": "part2/컨셉 만들기.html#좋은-컨셉의-조건",
+    "href": "part2/컨셉 만들기.html#좋은-컨셉의-조건",
+    "title": "8  컨셉 만들기",
+    "section": "8.2 좋은 컨셉의 조건",
+    "text": "8.2 좋은 컨셉의 조건\n\n간단하다.\n독특하다.\n갈등을 내포한다.",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>컨셉 만들기</span>"
+    ]
+  },
+  {
+    "objectID": "part2/로그라인 작성.html",
+    "href": "part2/로그라인 작성.html",
+    "title": "9  로그라인 작성",
+    "section": "",
+    "text": "9.1 기본 공식\n로그라인은 이야기 전체를 한 문장으로 압축한 것이다.\n주인공 + 목표 + 장애물",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>로그라인 작성</span>"
+    ]
+  },
+  {
+    "objectID": "part2/로그라인 작성.html#예시",
+    "href": "part2/로그라인 작성.html#예시",
+    "title": "9  로그라인 작성",
+    "section": "9.2 예시",
+    "text": "9.2 예시\n멸망한 미래에서 회귀한 기사가 제국을 구하려 하지만 황실의 음모에 휘말린다.",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>로그라인 작성</span>"
+    ]
+  },
+  {
+    "objectID": "part2/로그라인 작성.html#체크리스트",
+    "href": "part2/로그라인 작성.html#체크리스트",
+    "title": "9  로그라인 작성",
+    "section": "9.3 체크리스트",
+    "text": "9.3 체크리스트\n\n주인공이 보이는가?\n목표가 명확한가?\n장애물이 존재하는가?\n갈등이 예상되는가?\n\n로그라인이 선명할수록 이야기의 방향도 선명해진다.",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>로그라인 작성</span>"
+    ]
+  },
+  {
+    "objectID": "part2/이야기 핵심 질문.html",
+    "href": "part2/이야기 핵심 질문.html",
+    "title": "10  이야기 핵심 질문",
+    "section": "",
+    "text": "10.1 질문 1\n모든 이야기는 몇 개의 질문으로 요약할 수 있다.\n누가 주인공인가?",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>이야기 핵심 질문</span>"
+    ]
+  },
+  {
+    "objectID": "part2/이야기 핵심 질문.html#질문-2",
+    "href": "part2/이야기 핵심 질문.html#질문-2",
+    "title": "10  이야기 핵심 질문",
+    "section": "10.2 질문 2",
+    "text": "10.2 질문 2\n무엇을 원하는가?",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>이야기 핵심 질문</span>"
+    ]
+  },
+  {
+    "objectID": "part2/이야기 핵심 질문.html#질문-3",
+    "href": "part2/이야기 핵심 질문.html#질문-3",
+    "title": "10  이야기 핵심 질문",
+    "section": "10.3 질문 3",
+    "text": "10.3 질문 3\n왜 그것을 원하는가?",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>이야기 핵심 질문</span>"
+    ]
+  },
+  {
+    "objectID": "part2/이야기 핵심 질문.html#질문-4",
+    "href": "part2/이야기 핵심 질문.html#질문-4",
+    "title": "10  이야기 핵심 질문",
+    "section": "10.4 질문 4",
+    "text": "10.4 질문 4\n무엇이 방해하는가?",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>이야기 핵심 질문</span>"
+    ]
+  },
+  {
+    "objectID": "part2/이야기 핵심 질문.html#질문-5",
+    "href": "part2/이야기 핵심 질문.html#질문-5",
+    "title": "10  이야기 핵심 질문",
+    "section": "10.5 질문 5",
+    "text": "10.5 질문 5\n실패하면 무엇을 잃는가?",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>이야기 핵심 질문</span>"
+    ]
+  },
+  {
+    "objectID": "part2/이야기 핵심 질문.html#예시",
+    "href": "part2/이야기 핵심 질문.html#예시",
+    "title": "10  이야기 핵심 질문",
+    "section": "10.6 예시",
+    "text": "10.6 예시\n\n주인공: 몰락한 왕자\n목표: 왕위를 되찾는다.\n이유: 가문을 지킨다.\n장애물: 반역자 세력\n실패 대가: 국가의 멸망\n\n이 다섯 질문에 답할 수 있다면 이야기의 뼈대는 완성된 것이다.",
+    "crumbs": [
+      "이야기 씨앗 생성",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>이야기 핵심 질문</span>"
+    ]
+  },
+  {
+    "objectID": "part3/주인공의 역할.html",
+    "href": "part3/주인공의 역할.html",
+    "title": "11  주인공의 역할",
+    "section": "",
+    "text": "11.1 주인공의 핵심 기능\n주인공은 이야기의 중심점이다.\n독자는 주인공의 시선을 따라 사건을 경험하고 변화를 관찰한다.\n좋은 주인공은 사건에 끌려다니기보다 사건을 움직인다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>주인공의 역할</span>"
+    ]
+  },
+  {
+    "objectID": "part3/주인공의 역할.html#주인공의-핵심-기능",
+    "href": "part3/주인공의 역할.html#주인공의-핵심-기능",
+    "title": "11  주인공의 역할",
+    "section": "",
+    "text": "목표를 추구한다.\n갈등을 발생시킨다.\n선택을 내린다.\n변화를 겪는다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>주인공의 역할</span>"
+    ]
+  },
+  {
+    "objectID": "part3/욕망 설계.html",
+    "href": "part3/욕망 설계.html",
+    "title": "12  욕망 설계",
+    "section": "",
+    "text": "12.1 대표적인 욕망\n욕망은 캐릭터를 움직이는 원동력이다.\n욕망이 없는 캐릭터는 행동하지 않는다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>욕망 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/욕망 설계.html#대표적인-욕망",
+    "href": "part3/욕망 설계.html#대표적인-욕망",
+    "title": "12  욕망 설계",
+    "section": "",
+    "text": "생존\n복수\n사랑\n자유\n성장\n명예",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>욕망 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/욕망 설계.html#설계-질문",
+    "href": "part3/욕망 설계.html#설계-질문",
+    "title": "12  욕망 설계",
+    "section": "12.2 설계 질문",
+    "text": "12.2 설계 질문\n주인공은 무엇을 가장 원하고 있는가?\n그 답이 이야기의 방향을 결정한다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>욕망 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/결핍 설계.html",
+    "href": "part3/결핍 설계.html",
+    "title": "13  결핍 설계",
+    "section": "",
+    "text": "13.1 결핍의 예\n결핍은 주인공이 현재 가지지 못한 것이다.\n욕망이 앞으로 나아가게 만든다면, 결핍은 변화하게 만든다.\n결핍은 성장의 출발점이다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>결핍 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/결핍 설계.html#결핍의-예",
+    "href": "part3/결핍 설계.html#결핍의-예",
+    "title": "13  결핍 설계",
+    "section": "",
+    "text": "사랑받지 못함\n자신감 부족\n능력 부족\n가족 상실\n사회적 고립",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>결핍 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/강점 설계.html",
+    "href": "part3/강점 설계.html",
+    "title": "14  강점 설계",
+    "section": "",
+    "text": "14.1 강점의 종류\n강점은 문제를 해결할 수 있는 능력이다.\n강점은 갈등을 해결하는 도구가 되지만 만능이어서는 안 된다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>강점 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/강점 설계.html#강점의-종류",
+    "href": "part3/강점 설계.html#강점의-종류",
+    "title": "14  강점 설계",
+    "section": "",
+    "text": "지능\n전투력\n리더십\n공감 능력\n전문 지식",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>강점 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/약점 설계.html",
+    "href": "part3/약점 설계.html",
+    "title": "15  약점 설계",
+    "section": "",
+    "text": "15.1 약점의 예\n약점은 갈등을 어렵게 만드는 요소다.\n약점이 없으면 긴장감도 없다.\n강점과 약점의 균형이 필요하다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>약점 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/약점 설계.html#약점의-예",
+    "href": "part3/약점 설계.html#약점의-예",
+    "title": "15  약점 설계",
+    "section": "",
+    "text": "충동적 성격\n두려움\n편견\n신체적 한계\n과도한 자존심",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>약점 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/변화 가능한 인물 만들기.html",
+    "href": "part3/변화 가능한 인물 만들기.html",
+    "title": "16  변화 가능한 인물 만들기",
+    "section": "",
+    "text": "16.1 변화의 원인\n이야기의 주인공은 변화할 가능성을 가져야 한다.\n시작부터 완성된 인물은 성장 서사를 만들기 어렵다.\n독자는 변화의 순간에 가장 큰 감정을 느낀다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>변화 가능한 인물 만들기</span>"
+    ]
+  },
+  {
+    "objectID": "part3/변화 가능한 인물 만들기.html#변화의-원인",
+    "href": "part3/변화 가능한 인물 만들기.html#변화의-원인",
+    "title": "16  변화 가능한 인물 만들기",
+    "section": "",
+    "text": "실패\n상실\n깨달음\n새로운 관계",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>변화 가능한 인물 만들기</span>"
+    ]
+  },
+  {
+    "objectID": "part3/캐릭터 성장축 설계.html",
+    "href": "part3/캐릭터 성장축 설계.html",
+    "title": "17  캐릭터 성장축 설계",
+    "section": "",
+    "text": "17.1 예시\n성장축은 시작과 끝 사이의 변화 경로다.\n겁쟁이 → 도전 → 실패 → 책임감 형성 → 지도자\n성장축은 이야기 전체를 관통하는 인물의 변화 곡선이다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>캐릭터 성장축 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part3/캐릭터 프로파일 작성.html",
+    "href": "part3/캐릭터 프로파일 작성.html",
+    "title": "18  캐릭터 프로파일 작성",
+    "section": "",
+    "text": "18.1 기본 항목\n캐릭터를 일관성 있게 운용하기 위해 프로파일을 작성한다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>캐릭터 프로파일 작성</span>"
+    ]
+  },
+  {
+    "objectID": "part3/캐릭터 프로파일 작성.html#기본-항목",
+    "href": "part3/캐릭터 프로파일 작성.html#기본-항목",
+    "title": "18  캐릭터 프로파일 작성",
+    "section": "",
+    "text": "이름\n나이\n직업\n욕망\n결핍\n강점\n약점\n핵심 관계\n성장 목표",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>캐릭터 프로파일 작성</span>"
+    ]
+  },
+  {
+    "objectID": "part3/캐릭터 프로파일 작성.html#한-줄-요약",
+    "href": "part3/캐릭터 프로파일 작성.html#한-줄-요약",
+    "title": "18  캐릭터 프로파일 작성",
+    "section": "18.2 한 줄 요약",
+    "text": "18.2 한 줄 요약\n결핍을 극복하고 성장해야 하는 인물인가?\n이 질문에 답할 수 있다면 캐릭터 설계가 완료된 것이다.",
+    "crumbs": [
+      "주인공 설계",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>캐릭터 프로파일 작성</span>"
+    ]
+  },
+  {
+    "objectID": "part4/적대자의 역할.html",
+    "href": "part4/적대자의 역할.html",
+    "title": "19  적대자의 역할",
+    "section": "",
+    "text": "20 적대자의 역할\n적대자는 주인공의 목표를 방해하는 인물이다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>적대자의 역할</span>"
+    ]
+  },
+  {
+    "objectID": "part4/적대자의 역할.html#핵심-기능",
+    "href": "part4/적대자의 역할.html#핵심-기능",
+    "title": "19  적대자의 역할",
+    "section": "20.1 핵심 기능",
+    "text": "20.1 핵심 기능\n\n갈등 생성\n주인공 시험\n이야기 긴장 유지\n성장 유도\n\n\n\n\n\n\n\n노트\n\n\n\n강한 적대자는 강한 이야기를 만든다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>적대자의 역할</span>"
+    ]
+  },
+  {
+    "objectID": "part4/악당의 욕망.html",
+    "href": "part4/악당의 욕망.html",
+    "title": "20  악당의 욕망",
+    "section": "",
+    "text": "21 악당의 욕망\n좋은 악당은 자신만의 목표를 가지고 있다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>악당의 욕망</span>"
+    ]
+  },
+  {
+    "objectID": "part4/악당의 욕망.html#욕망의-예",
+    "href": "part4/악당의 욕망.html#욕망의-예",
+    "title": "20  악당의 욕망",
+    "section": "21.1 욕망의 예",
+    "text": "21.1 욕망의 예\n\n권력 획득\n복수\n질서 확립\n생존\n\n악당 역시 자신이 옳다고 믿을 때 설득력이 생긴다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>악당의 욕망</span>"
+    ]
+  },
+  {
+    "objectID": "part4/주인공과의 충돌점.html",
+    "href": "part4/주인공과의 충돌점.html",
+    "title": "21  주인공과의 충돌점",
+    "section": "",
+    "text": "22 주인공과의 충돌점\n갈등은 목표의 충돌에서 시작된다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>주인공과의 충돌점</span>"
+    ]
+  },
+  {
+    "objectID": "part4/주인공과의 충돌점.html#설계-질문",
+    "href": "part4/주인공과의 충돌점.html#설계-질문",
+    "title": "21  주인공과의 충돌점",
+    "section": "22.1 설계 질문",
+    "text": "22.1 설계 질문\n\n주인공은 무엇을 원하는가?\n적대자는 무엇을 원하는가?\n왜 함께 이룰 수 없는가?\n\n목표가 충돌할수록 긴장감이 커진다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>주인공과의 충돌점</span>"
+    ]
+  },
+  {
+    "objectID": "part4/라이벌.html",
+    "href": "part4/라이벌.html",
+    "title": "22  라이벌",
+    "section": "",
+    "text": "23 라이벌\n라이벌은 주인공과 비슷한 목표를 공유하지만 경쟁 관계에 있는 인물이다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>라이벌</span>"
+    ]
+  },
+  {
+    "objectID": "part4/라이벌.html#라이벌의-효과",
+    "href": "part4/라이벌.html#라이벌의-효과",
+    "title": "22  라이벌",
+    "section": "23.1 라이벌의 효과",
+    "text": "23.1 라이벌의 효과\n\n성장 자극\n비교 대상 제공\n긴장감 생성\n\n라이벌은 반드시 악역일 필요는 없다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>라이벌</span>"
+    ]
+  },
+  {
+    "objectID": "part4/조력자.html",
+    "href": "part4/조력자.html",
+    "title": "23  조력자",
+    "section": "",
+    "text": "24 조력자\n조력자는 주인공의 여정을 돕는 인물이다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>조력자</span>"
+    ]
+  },
+  {
+    "objectID": "part4/조력자.html#역할",
+    "href": "part4/조력자.html#역할",
+    "title": "23  조력자",
+    "section": "24.1 역할",
+    "text": "24.1 역할\n\n정보 제공\n기술 전수\n정서적 지지\n위기 구출\n\n조력자도 독립적인 목표를 가지는 것이 좋다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>조력자</span>"
+    ]
+  },
+  {
+    "objectID": "part4/서브 캐릭터 네트워크.html",
+    "href": "part4/서브 캐릭터 네트워크.html",
+    "title": "24  서브 캐릭터 네트워크",
+    "section": "",
+    "text": "25 서브 캐릭터 네트워크\n서브 캐릭터는 이야기의 깊이를 만든다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>서브 캐릭터 네트워크</span>"
+    ]
+  },
+  {
+    "objectID": "part4/서브 캐릭터 네트워크.html#구성-요소",
+    "href": "part4/서브 캐릭터 네트워크.html#구성-요소",
+    "title": "24  서브 캐릭터 네트워크",
+    "section": "25.1 구성 요소",
+    "text": "25.1 구성 요소\n\n가족\n친구\n동료\n적대 세력\n중립 세력\n\n각 인물은 주인공과 관계를 가져야 한다.",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>서브 캐릭터 네트워크</span>"
+    ]
+  },
+  {
+    "objectID": "part4/인물 관계도 구축.html",
+    "href": "part4/인물 관계도 구축.html",
+    "title": "25  인물 관계도 구축",
+    "section": "",
+    "text": "26 인물 관계도 구축\n관계도는 인물 간 연결 구조를 시각화한 것이다.\ngraph TD\n주인공 --&gt; 조력자\n주인공 --&gt; 라이벌\n주인공 --&gt; 적대자\n라이벌 --&gt; 적대자",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>인물 관계도 구축</span>"
+    ]
+  },
+  {
+    "objectID": "part4/인물 관계도 구축.html#체크리스트",
+    "href": "part4/인물 관계도 구축.html#체크리스트",
+    "title": "25  인물 관계도 구축",
+    "section": "26.1 체크리스트",
+    "text": "26.1 체크리스트\n\n모든 주요 인물이 연결되는가?\n갈등 관계가 존재하는가?\n협력 관계가 존재하는가?",
+    "crumbs": [
+      "대립 인물 설계",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>인물 관계도 구축</span>"
+    ]
+  },
+  {
+    "objectID": "part5/세계관의 목적.html",
+    "href": "part5/세계관의 목적.html",
+    "title": "26  세계관의 목적",
+    "section": "",
+    "text": "27 세계관의 목적\n세계관은 이야기의 배경이 아니라 갈등을 생산하는 엔진이다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>세계관의 목적</span>"
+    ]
+  },
+  {
+    "objectID": "part5/세계관의 목적.html#역할",
+    "href": "part5/세계관의 목적.html#역할",
+    "title": "26  세계관의 목적",
+    "section": "27.1 역할",
+    "text": "27.1 역할\n\n이야기의 규칙 제공\n인물 행동 제약\n갈등 생성\n분위기 형성\n\n\n\n\n\n\n\n노트\n\n\n\n좋은 세계관은 설정집이 아니라 사건 발생 장치다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>세계관의 목적</span>"
+    ]
+  },
+  {
+    "objectID": "part5/공간 설계.html",
+    "href": "part5/공간 설계.html",
+    "title": "27  공간 설계",
+    "section": "",
+    "text": "28 공간 설계\n이야기의 주요 무대를 설계한다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>공간 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part5/공간 설계.html#핵심-요소",
+    "href": "part5/공간 설계.html#핵심-요소",
+    "title": "27  공간 설계",
+    "section": "28.1 핵심 요소",
+    "text": "28.1 핵심 요소\n\n국가\n도시\n조직\n미지의 영역\n\n\n\n\n\n\ngraph LR\n왕국 --&gt; 수도\n왕국 --&gt; 변경지역\n변경지역 --&gt; 미탐사구역",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>공간 설계</span>"
+    ]
+  },
+  {
+    "objectID": "part5/권력 구조.html",
+    "href": "part5/권력 구조.html",
+    "title": "28  권력 구조",
+    "section": "",
+    "text": "29 권력 구조\n누가 권력을 가지는지 정한다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>권력 구조</span>"
+    ]
+  },
+  {
+    "objectID": "part5/권력 구조.html#예시",
+    "href": "part5/권력 구조.html#예시",
+    "title": "28  권력 구조",
+    "section": "29.1 예시",
+    "text": "29.1 예시\n\n왕정\n귀족정\n종교정\n기업국가\n\n권력은 필연적으로 갈등을 만든다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>권력 구조</span>"
+    ]
+  },
+  {
+    "objectID": "part5/경제 구조.html",
+    "href": "part5/경제 구조.html",
+    "title": "29  경제 구조",
+    "section": "",
+    "text": "30 경제 구조\n사람들이 어떻게 먹고 사는지 정의한다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>경제 구조</span>"
+    ]
+  },
+  {
+    "objectID": "part5/경제 구조.html#고려-요소",
+    "href": "part5/경제 구조.html#고려-요소",
+    "title": "29  경제 구조",
+    "section": "30.1 고려 요소",
+    "text": "30.1 고려 요소\n\n생산\n유통\n화폐\n자원\n\n희소한 자원은 이야기의 중요한 갈등 요소가 된다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>경제 구조</span>"
+    ]
+  },
+  {
+    "objectID": "part5/기술 체계.html",
+    "href": "part5/기술 체계.html",
+    "title": "30  기술 체계",
+    "section": "",
+    "text": "31 기술 체계\n기술 수준은 가능한 행동 범위를 결정한다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>기술 체계</span>"
+    ]
+  },
+  {
+    "objectID": "part5/기술 체계.html#질문",
+    "href": "part5/기술 체계.html#질문",
+    "title": "30  기술 체계",
+    "section": "31.1 질문",
+    "text": "31.1 질문\n\n통신은 가능한가?\n이동 수단은 무엇인가?\n무기는 얼마나 강력한가?\n\n기술은 문제 해결 수단이자 새로운 문제의 원인이다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>30</span>  <span class='chapter-title'>기술 체계</span>"
+    ]
+  },
+  {
+    "objectID": "part5/마법 체계.html",
+    "href": "part5/마법 체계.html",
+    "title": "31  마법 체계",
+    "section": "",
+    "text": "32 마법 체계\n마법이 존재한다면 규칙이 필요하다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>마법 체계</span>"
+    ]
+  },
+  {
+    "objectID": "part5/마법 체계.html#정의-항목",
+    "href": "part5/마법 체계.html#정의-항목",
+    "title": "31  마법 체계",
+    "section": "32.1 정의 항목",
+    "text": "32.1 정의 항목\n\n사용 조건\n비용\n한계\n위험\n\n제약 없는 마법은 긴장감을 약화시킨다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>31</span>  <span class='chapter-title'>마법 체계</span>"
+    ]
+  },
+  {
+    "objectID": "part5/사회 규칙.html",
+    "href": "part5/사회 규칙.html",
+    "title": "32  사회 규칙",
+    "section": "",
+    "text": "33 사회 규칙\n사회는 암묵적 또는 명시적 규칙으로 유지된다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>사회 규칙</span>"
+    ]
+  },
+  {
+    "objectID": "part5/사회 규칙.html#예시",
+    "href": "part5/사회 규칙.html#예시",
+    "title": "32  사회 규칙",
+    "section": "33.1 예시",
+    "text": "33.1 예시\n\n신분제\n종교적 금기\n결투 문화\n마법 사용 제한\n\n규칙은 위반될 때 이야기를 만든다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>사회 규칙</span>"
+    ]
+  },
+  {
+    "objectID": "part5/세계관에서 갈등 뽑아내기.html",
+    "href": "part5/세계관에서 갈등 뽑아내기.html",
+    "title": "33  세계관에서 갈등 뽑아내기",
+    "section": "",
+    "text": "34 세계관에서 갈등 뽑아내기\n설정 자체에서 갈등을 추출한다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>세계관에서 갈등 뽑아내기</span>"
+    ]
+  },
+  {
+    "objectID": "part5/세계관에서 갈등 뽑아내기.html#공식",
+    "href": "part5/세계관에서 갈등 뽑아내기.html#공식",
+    "title": "33  세계관에서 갈등 뽑아내기",
+    "section": "34.1 공식",
+    "text": "34.1 공식\n규칙 → 예외 발생 → 충돌 → 갈등\n\n34.1.1 예시\n마법은 귀족만 사용 가능 → 평민 마법사 등장 → 사회 혼란 → 정치 갈등\n\n\n\n\n\n\n힌트\n\n\n\n갈등은 인물이 아니라 세계의 구조에서도 발생한다.",
+    "crumbs": [
+      "세계 설계",
+      "<span class='chapter-number'>33</span>  <span class='chapter-title'>세계관에서 갈등 뽑아내기</span>"
+    ]
+  },
+  {
+    "objectID": "part6/갈등의 원리.html",
+    "href": "part6/갈등의 원리.html",
+    "title": "34  갈등의 원리",
+    "section": "",
+    "text": "35 갈등의 원리\n갈등은 서로 양립할 수 없는 목표의 충돌이다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>갈등의 원리</span>"
+    ]
+  },
+  {
+    "objectID": "part6/갈등의 원리.html#기본-공식",
+    "href": "part6/갈등의 원리.html#기본-공식",
+    "title": "34  갈등의 원리",
+    "section": "35.1 기본 공식",
+    "text": "35.1 기본 공식\n목표 → 장애물 → 갈등 → 선택 → 결과\n\n\n\n\n\n\n노트\n\n\n\n갈등이 없으면 이야기도 없다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>갈등의 원리</span>"
+    ]
+  },
+  {
+    "objectID": "part6/목표와 장애물.html",
+    "href": "part6/목표와 장애물.html",
+    "title": "35  목표와 장애물",
+    "section": "",
+    "text": "36 목표와 장애물\n목표는 인물을 움직이고 장애물은 이야기를 만든다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>목표와 장애물</span>"
+    ]
+  },
+  {
+    "objectID": "part6/목표와 장애물.html#예시",
+    "href": "part6/목표와 장애물.html#예시",
+    "title": "35  목표와 장애물",
+    "section": "36.1 예시",
+    "text": "36.1 예시\n\n목표: 왕위를 되찾는다.\n장애물: 반역 세력\n\n장애물이 강할수록 긴장도 증가한다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>35</span>  <span class='chapter-title'>목표와 장애물</span>"
+    ]
+  },
+  {
+    "objectID": "part6/외적 갈등.html",
+    "href": "part6/외적 갈등.html",
+    "title": "36  외적 갈등",
+    "section": "",
+    "text": "37 외적 갈등\n외적 갈등은 인물 밖에서 발생한다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>외적 갈등</span>"
+    ]
+  },
+  {
+    "objectID": "part6/외적 갈등.html#유형",
+    "href": "part6/외적 갈등.html#유형",
+    "title": "36  외적 갈등",
+    "section": "37.1 유형",
+    "text": "37.1 유형\n\n인간 대 인간\n인간 대 사회\n인간 대 자연\n인간 대 괴물\n\n독자가 가장 쉽게 인식하는 갈등이다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>36</span>  <span class='chapter-title'>외적 갈등</span>"
+    ]
+  },
+  {
+    "objectID": "part6/내적 갈등.html",
+    "href": "part6/내적 갈등.html",
+    "title": "37  내적 갈등",
+    "section": "",
+    "text": "38 내적 갈등\n내적 갈등은 인물 내부에서 발생한다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>내적 갈등</span>"
+    ]
+  },
+  {
+    "objectID": "part6/내적 갈등.html#예시",
+    "href": "part6/내적 갈등.html#예시",
+    "title": "37  내적 갈등",
+    "section": "38.1 예시",
+    "text": "38.1 예시\n\n복수와 용서\n사랑과 의무\n자유와 책임\n\n내적 갈등은 캐릭터의 깊이를 만든다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>37</span>  <span class='chapter-title'>내적 갈등</span>"
+    ]
+  },
+  {
+    "objectID": "part6/사회적 갈등.html",
+    "href": "part6/사회적 갈등.html",
+    "title": "38  사회적 갈등",
+    "section": "",
+    "text": "39 사회적 갈등\n사회 구조가 만들어내는 갈등이다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>사회적 갈등</span>"
+    ]
+  },
+  {
+    "objectID": "part6/사회적 갈등.html#예시",
+    "href": "part6/사회적 갈등.html#예시",
+    "title": "38  사회적 갈등",
+    "section": "39.1 예시",
+    "text": "39.1 예시\n\n신분제\n빈부격차\n종교 대립\n정치 분쟁\n\n세계관과 결합할 때 강력한 서사가 생성된다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>사회적 갈등</span>"
+    ]
+  },
+  {
+    "objectID": "part6/가치관 충돌.html",
+    "href": "part6/가치관 충돌.html",
+    "title": "39  가치관 충돌",
+    "section": "",
+    "text": "40 가치관 충돌\n서로 다른 신념이 충돌할 때 발생한다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>가치관 충돌</span>"
+    ]
+  },
+  {
+    "objectID": "part6/가치관 충돌.html#예시",
+    "href": "part6/가치관 충돌.html#예시",
+    "title": "39  가치관 충돌",
+    "section": "40.1 예시",
+    "text": "40.1 예시\n\n질서 대 자유\n정의 대 복수\n개인 대 공동체\n\n둘 다 옳을 수 있을 때 갈등은 더욱 흥미로워진다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>39</span>  <span class='chapter-title'>가치관 충돌</span>"
+    ]
+  },
+  {
+    "objectID": "part6/갈등 확장 방법.html",
+    "href": "part6/갈등 확장 방법.html",
+    "title": "40  갈등 확장 방법",
+    "section": "",
+    "text": "41 갈등 확장 방법\n작은 갈등을 큰 갈등으로 발전시킨다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>갈등 확장 방법</span>"
+    ]
+  },
+  {
+    "objectID": "part6/갈등 확장 방법.html#방법",
+    "href": "part6/갈등 확장 방법.html#방법",
+    "title": "40  갈등 확장 방법",
+    "section": "41.1 방법",
+    "text": "41.1 방법\n\n이해관계자 추가\n위험 증가\n시간 제한\n정보 은폐\n\n\n\n\n\n\nflowchart LR\n개인갈등 --&gt; 집단갈등\n집단갈등 --&gt; 사회갈등\n사회갈등 --&gt; 국가갈등",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>40</span>  <span class='chapter-title'>갈등 확장 방법</span>"
+    ]
+  },
+  {
+    "objectID": "part6/갈등의 단계적 상승.html",
+    "href": "part6/갈등의 단계적 상승.html",
+    "title": "41  갈등의 단계적 상승",
+    "section": "",
+    "text": "42 갈등의 단계적 상승\n갈등은 점점 강해져야 한다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>갈등의 단계적 상승</span>"
+    ]
+  },
+  {
+    "objectID": "part6/갈등의 단계적 상승.html#상승-구조",
+    "href": "part6/갈등의 단계적 상승.html#상승-구조",
+    "title": "41  갈등의 단계적 상승",
+    "section": "42.1 상승 구조",
+    "text": "42.1 상승 구조\n\n문제 발생\n문제 확대\n위기\n절망\n반전\n해결\n\n\n\n\n\n\n\n힌트\n\n\n\n같은 강도의 갈등이 반복되면 독자의 긴장감이 감소한다.",
+    "crumbs": [
+      "갈등 설계",
+      "<span class='chapter-number'>41</span>  <span class='chapter-title'>갈등의 단계적 상승</span>"
+    ]
+  },
+  {
+    "objectID": "part7/사건이란 무엇인가.html",
+    "href": "part7/사건이란 무엇인가.html",
+    "title": "42  사건이란 무엇인가",
+    "section": "",
+    "text": "43 사건이란 무엇인가\n사건은 이야기의 상태를 변화시키는 발생이다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>사건이란 무엇인가</span>"
+    ]
+  },
+  {
+    "objectID": "part7/사건이란 무엇인가.html#사건의-조건",
+    "href": "part7/사건이란 무엇인가.html#사건의-조건",
+    "title": "42  사건이란 무엇인가",
+    "section": "43.1 사건의 조건",
+    "text": "43.1 사건의 조건\n\n이전과 이후가 다르다\n인물에게 영향을 준다\n새로운 선택을 발생시킨다\n\n\n\n\n\n\n\n노트\n\n\n\n변화가 없다면 사건이 아니라 단순한 정보다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>42</span>  <span class='chapter-title'>사건이란 무엇인가</span>"
+    ]
+  },
+  {
+    "objectID": "part7/사건의 유형.html",
+    "href": "part7/사건의 유형.html",
+    "title": "43  사건의 유형",
+    "section": "",
+    "text": "44 사건의 유형",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>사건의 유형</span>"
+    ]
+  },
+  {
+    "objectID": "part7/사건의 유형.html#주요-유형",
+    "href": "part7/사건의 유형.html#주요-유형",
+    "title": "43  사건의 유형",
+    "section": "44.1 주요 유형",
+    "text": "44.1 주요 유형\n\n만남\n발견\n배신\n추격\n전투\n상실\n죽음\n선택\n\n서로 다른 유형을 조합하면 다양한 이야기 전개가 가능하다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>43</span>  <span class='chapter-title'>사건의 유형</span>"
+    ]
+  },
+  {
+    "objectID": "part7/발단 사건.html",
+    "href": "part7/발단 사건.html",
+    "title": "44  발단 사건",
+    "section": "",
+    "text": "45 발단 사건\n발단 사건은 주인공을 일상에서 끌어내는 첫 번째 충격이다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>발단 사건</span>"
+    ]
+  },
+  {
+    "objectID": "part7/발단 사건.html#예시",
+    "href": "part7/발단 사건.html#예시",
+    "title": "44  발단 사건",
+    "section": "45.1 예시",
+    "text": "45.1 예시\n\n괴물 침공\n의문의 편지\n가족의 죽음\n회귀\n\n발단 사건 이후에는 이전의 삶으로 돌아갈 수 없어야 한다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>44</span>  <span class='chapter-title'>발단 사건</span>"
+    ]
+  },
+  {
+    "objectID": "part7/전환점 사건.html",
+    "href": "part7/전환점 사건.html",
+    "title": "45  전환점 사건",
+    "section": "",
+    "text": "46 전환점 사건\n전환점은 이야기의 방향을 바꾸는 사건이다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>전환점 사건</span>"
+    ]
+  },
+  {
+    "objectID": "part7/전환점 사건.html#역할",
+    "href": "part7/전환점 사건.html#역할",
+    "title": "45  전환점 사건",
+    "section": "46.1 역할",
+    "text": "46.1 역할\n\n목표 변경\n적의 등장\n진실 발견\n새로운 위험 노출\n\n전환점은 독자의 예상을 흔들어야 한다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>45</span>  <span class='chapter-title'>전환점 사건</span>"
+    ]
+  },
+  {
+    "objectID": "part7/위기 사건.html",
+    "href": "part7/위기 사건.html",
+    "title": "46  위기 사건",
+    "section": "",
+    "text": "47 위기 사건\n위기 사건은 주인공이 가장 큰 압박을 받는 구간이다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>위기 사건</span>"
+    ]
+  },
+  {
+    "objectID": "part7/위기 사건.html#특징",
+    "href": "part7/위기 사건.html#특징",
+    "title": "46  위기 사건",
+    "section": "47.1 특징",
+    "text": "47.1 특징\n\n실패 가능성 증가\n중요한 상실\n잘못된 선택\n\n위기가 클수록 이후의 성취도 커진다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>46</span>  <span class='chapter-title'>위기 사건</span>"
+    ]
+  },
+  {
+    "objectID": "part7/클라이맥스 사건.html",
+    "href": "part7/클라이맥스 사건.html",
+    "title": "47  클라이맥스 사건",
+    "section": "",
+    "text": "48 클라이맥스 사건\n모든 갈등이 최종적으로 충돌하는 지점이다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>클라이맥스 사건</span>"
+    ]
+  },
+  {
+    "objectID": "part7/클라이맥스 사건.html#핵심-요소",
+    "href": "part7/클라이맥스 사건.html#핵심-요소",
+    "title": "47  클라이맥스 사건",
+    "section": "48.1 핵심 요소",
+    "text": "48.1 핵심 요소\n\n최종 선택\n최대 위험\n결정적 행동\n\n주인공은 이 장면에서 가장 큰 변화를 증명한다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>47</span>  <span class='chapter-title'>클라이맥스 사건</span>"
+    ]
+  },
+  {
+    "objectID": "part7/사건 사슬 만들기.html",
+    "href": "part7/사건 사슬 만들기.html",
+    "title": "48  사건 사슬 만들기",
+    "section": "",
+    "text": "49 사건 사슬 만들기\n좋은 이야기는 사건이 인과관계로 연결된다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>사건 사슬 만들기</span>"
+    ]
+  },
+  {
+    "objectID": "part7/사건 사슬 만들기.html#기본-구조",
+    "href": "part7/사건 사슬 만들기.html#기본-구조",
+    "title": "48  사건 사슬 만들기",
+    "section": "49.1 기본 구조",
+    "text": "49.1 기본 구조\nflowchart LR\n발단 --&gt; 전환점\n전환점 --&gt; 위기\n위기 --&gt; 클라이맥스",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>사건 사슬 만들기</span>"
+    ]
+  },
+  {
+    "objectID": "part7/사건 사슬 만들기.html#체크리스트",
+    "href": "part7/사건 사슬 만들기.html#체크리스트",
+    "title": "48  사건 사슬 만들기",
+    "section": "49.2 체크리스트",
+    "text": "49.2 체크리스트\n\n각 사건이 다음 사건의 원인인가?\n우연보다 선택이 중요한가?\n긴장도가 증가하는가?\n\n\n\n\n\n\n\n힌트\n\n\n\n사건은 나열이 아니라 연결되어야 한다.",
+    "crumbs": [
+      "사건 설계",
+      "<span class='chapter-number'>48</span>  <span class='chapter-title'>사건 사슬 만들기</span>"
+    ]
+  }
+]
