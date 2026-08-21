@@ -1125,7 +1125,7 @@
     "href": "part7/사건 사슬 만들기.html#기본-구조",
     "title": "48  사건 사슬 만들기",
     "section": "49.1 기본 구조",
-    "text": "49.1 기본 구조\nflowchart LR\n발단 --&gt; 전환점\n전환점 --&gt; 위기\n위기 --&gt; 클라이맥스",
+    "text": "49.1 기본 구조\n\n\n\n\n\nflowchart LR\n발단 --&gt; 전환점\n전환점 --&gt; 위기\n위기 --&gt; 클라이맥스",
     "crumbs": [
       "사건 설계",
       "<span class='chapter-number'>48</span>  <span class='chapter-title'>사건 사슬 만들기</span>"
