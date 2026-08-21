@@ -1,0 +1,47 @@
+# Quarto rendered output
+/_book/
+/_site/
+
+# Quarto cache
+/.quarto/
+/.qmd_cache/
+/.knitr/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+**/*.quarto_ipynb
