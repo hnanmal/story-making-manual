@@ -45,133 +45,148 @@ book:
         - part4/서브 캐릭터 네트워크.qmd
         - part4/인물 관계도 구축.qmd
 
-    # - part: "세계 설계"
-    #   chapters:
-    #     - 세계관의 목적.qmd
-    #     - 공간 설계.qmd
-    #     - 권력 구조.qmd
-    #     - 경제 구조.qmd
-    #     - 기술 체계.qmd
-    #     - 마법 체계.qmd
-    #     - 사회 규칙.qmd
-    #     - 세계관에서 갈등 뽑아내기.qmd
+    - part: "세계 설계"
+      chapters:
+        - part5/세계관의 목적.qmd
+        - part5/공간 설계.qmd
+        - part5/권력 구조.qmd
+        - part5/경제 구조.qmd
+        - part5/기술 체계.qmd
+        - part5/마법 체계.qmd
+        - part5/사회 규칙.qmd
+        - part5/세계관에서 갈등 뽑아내기.qmd
 
-    # - part: "갈등 설계"
-    #   chapters:
-    #     - 갈등의 원리.qmd
-    #     - 목표와 장애물.qmd
-    #     - 외적 갈등.qmd
-    #     - 내적 갈등.qmd
-    #     - 사회적 갈등.qmd
-    #     - 가치관 충돌.qmd
-    #     - 갈등 확장 방법.qmd
-    #     - 갈등의 단계적 상승.qmd
+    - part: "갈등 설계"
+      chapters:
+        - part6/갈등의 원리.qmd
+        - part6/목표와 장애물.qmd
+        - part6/외적 갈등.qmd
+        - part6/내적 갈등.qmd
+        - part6/사회적 갈등.qmd
+        - part6/가치관 충돌.qmd
+        - part6/갈등 확장 방법.qmd
+        - part6/갈등의 단계적 상승.qmd
 
-    # - part: "사건 설계"
-    #   chapters:
-    #     - 사건이란 무엇인가.qmd
-    #     - 사건의 유형.qmd
-    #     - 발단 사건.qmd
-    #     - 전환점 사건.qmd
-    #     - 위기 사건.qmd
-    #     - 클라이맥스 사건.qmd
-    #     - 사건 사슬 만들기.qmd
+    - part: "사건 설계"
+      chapters:
+        - part7/사건이란 무엇인가.qmd
+        - part7/사건의 유형.qmd
+        - part7/발단 사건.qmd
+        - part7/전환점 사건.qmd
+        - part7/위기 사건.qmd
+        - part7/클라이맥스 사건.qmd
+        - part7/사건 사슬 만들기.qmd
 
     # - part: "플롯 설계"
     #   chapters:
-    #     - 플롯의 정의.qmd
-    #     - 원인과 결과.qmd
-    #     - 3막 구조.qmd
-    #     - 5막 구조.qmd
-    #     - 영웅의 여정.qmd
-    #     - 웹소설형 아크.qmd
-    #     - 메인 플롯.qmd
-    #     - 서브 플롯.qmd
-    #     - 플롯 지도 작성.qmd
+    #     - part8/플롯의 정의.qmd
+    #     - part8/원인과 결과.qmd
+    #     - part8/3막 구조.qmd
+    #     - part8/5막 구조.qmd
+    #     - part8/영웅의 여정.qmd
+    #     - part8/웹소설형 아크.qmd
+    #     - part8/메인 플롯.qmd
+    #     - part8/서브 플롯.qmd
+    #     - part8/플롯 지도 작성.qmd
 
     # - part: "스토리 아크 설계"
     #   chapters:
-    #     - 아크의 개념.qmd
-    #     - 목표 설정.qmd
-    #     - 도전 설계.qmd
-    #     - 실패 설계.qmd
-    #     - 각성 설계.qmd
-    #     - 승리 설계.qmd
-    #     - 장기 스토리 설계.qmd
+    #     - part9/아크의 개념.qmd
+    #     - part9/목표 설정.qmd
+    #     - part9/도전 설계.qmd
+    #     - part9/실패 설계.qmd
+    #     - part9/각성 설계.qmd
+    #     - part9/승리 설계.qmd
+    #     - part9/장기 스토리 설계.qmd
 
     # - part: "에피소드 설계"
     #   chapters:
-    #     - 에피소드의 역할.qmd
-    #     - 에피소드 구조.qmd
-    #     - 메인 에피소드.qmd
-    #     - 서브 에피소드.qmd
-    #     - 반복과 변주.qmd
-    #     - 에피소드 연결.qmd
-    #     - 에피소드 체크리스트.qmd
+    #     - part10/에피소드의 역할.qmd
+    #     - part10/에피소드 구조.qmd
+    #     - part10/메인 에피소드.qmd
+    #     - part10/서브 에피소드.qmd
+    #     - part10/반복과 변주.qmd
+    #     - part10/에피소드 연결.qmd
+    #     - part10/에피소드 체크리스트.qmd
 
     # - part: "장면 설계"
     #   chapters:
-    #     - 장면의 정의.qmd
-    #     - 장면 목표.qmd
-    #     - 장면 갈등.qmd
-    #     - 장면 변화.qmd
-    #     - 진입과 종료.qmd
-    #     - 정보 공개.qmd
-    #     - 대화 장면.qmd
-    #     - 액션 장면.qmd
-    #     - 감정 장면.qmd
-    #     - 장면 분해 실습.qmd
+    #     - part11/장면의 정의.qmd
+    #     - part11/장면 목표.qmd
+    #     - part11/장면 갈등.qmd
+    #     - part11/장면 변화.qmd
+    #     - part11/진입과 종료.qmd
+    #     - part11/정보 공개.qmd
+    #     - part11/대화 장면.qmd
+    #     - part11/액션 장면.qmd
+    #     - part11/감정 장면.qmd
+    #     - part11/장면 분해 실습.qmd
 
     # - part: "챕터 설계"
     #   chapters:
-    #     - 챕터의 역할.qmd
-    #     - 오프닝 훅.qmd
-    #     - 긴장 유지.qmd
-    #     - 미니 클라이맥스.qmd
-    #     - 클리프행어.qmd
-    #     - 다음 화 연결.qmd
+    #     - part12/챕터의 역할.qmd
+    #     - part12/오프닝 훅.qmd
+    #     - part12/긴장 유지.qmd
+    #     - part12/미니 클라이맥스.qmd
+    #     - part12/클리프행어.qmd
+    #     - part12/다음 화 연결.qmd
 
     # - part: "이야기 확장 시스템"
     #   chapters:
-    #     - 분량 증식.qmd
-    #     - 캐릭터 확장.qmd
-    #     - 세계관 확장.qmd
-    #     - 갈등 추가.qmd
-    #     - 서브플롯 생성.qmd
-    #     - 시리즈화.qmd
+    #     - part13/분량 증식.qmd
+    #     - part13/캐릭터 확장.qmd
+    #     - part13/세계관 확장.qmd
+    #     - part13/갈등 추가.qmd
+    #     - part13/서브플롯 생성.qmd
+    #     - part13/시리즈화.qmd
 
     # - part: "검증 시스템"
     #   chapters:
-    #     - 캐릭터 검증.qmd
-    #     - 갈등 검증.qmd
-    #     - 플롯 검증.qmd
-    #     - 장면 검증.qmd
-    #     - 개연성 검증.qmd
-    #     - 몰입도 검증.qmd
-    #     - 수정 우선순위.qmd
+    #     - part14/캐릭터 검증.qmd
+    #     - part14/갈등 검증.qmd
+    #     - part14/플롯 검증.qmd
+    #     - part14/장면 검증.qmd
+    #     - part14/개연성 검증.qmd
+    #     - part14/몰입도 검증.qmd
+    #     - part14/수정 우선순위.qmd
 
     # - part: "스토리 생성 템플릿"
     #   chapters:
-    #     - Story Canvas.qmd
-    #     - 로그라인 템플릿.qmd
-    #     - 캐릭터 시트.qmd
-    #     - 갈등 시트.qmd
-    #     - 플롯 시트.qmd
-    #     - 에피소드 시트.qmd
-    #     - 장면 시트.qmd
+    #     - part15/Story Canvas.qmd
+    #     - part15/로그라인 템플릿.qmd
+    #     - part15/캐릭터 시트.qmd
+    #     - part15/갈등 시트.qmd
+    #     - part15/플롯 시트.qmd
+    #     - part15/에피소드 시트.qmd
+    #     - part15/장면 시트.qmd
 
-
-
-
-bibliography: references.bib
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
+    toc: true
+    toc-depth: 5
+    number-sections: true
+    code-copy: true
+    lightbox: true
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: true
+    link-external-icon: true
+    mermaid:
+      theme: default
+
   pdf:
-    documentclass: scrreprt
+    pdf-engine: xelatex
+    mainfont: "Malgun Gothic"
+    sansfont: "Malgun Gothic"
+    monofont: "Malgun Gothic"
 
+  docx:
+    toc: true
+    number-sections: true
 
+lang: ko-KR
 
+execute:
+  freeze: auto
